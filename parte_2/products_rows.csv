@@ -1,0 +1,1000 @@
+id,title,price,category,rating,created_at,updated_at
+1,A Light in the Attic,51.77,Books,3,2025-07-07 16:26:00.399468+00,2025-07-07 16:26:00.399468+00
+2,Tipping the Velvet,53.74,Books,1,2025-07-07 16:26:00.942606+00,2025-07-07 16:26:00.942606+00
+3,Soumission,50.10,Books,1,2025-07-07 16:26:01.361442+00,2025-07-07 16:26:01.361442+00
+4,Sharp Objects,47.82,Books,4,2025-07-07 16:26:01.793788+00,2025-07-07 16:26:01.793788+00
+5,Sapiens: A Brief History of Humankind,54.23,Books,5,2025-07-07 16:26:02.09607+00,2025-07-07 16:26:02.09607+00
+6,The Requiem Red,22.65,Books,1,2025-07-07 16:26:02.527735+00,2025-07-07 16:26:02.527735+00
+7,The Dirty Little Secrets of Getting Your Dream Job,33.34,Books,4,2025-07-07 16:26:02.825907+00,2025-07-07 16:26:02.825907+00
+8,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,Books,3,2025-07-07 16:26:03.157207+00,2025-07-07 16:26:03.157207+00
+9,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.60,Books,4,2025-07-07 16:26:03.562909+00,2025-07-07 16:26:03.562909+00
+10,The Black Maria,52.15,Books,1,2025-07-07 16:26:03.863612+00,2025-07-07 16:26:03.863612+00
+11,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,Books,2,2025-07-07 16:26:04.171405+00,2025-07-07 16:26:04.171405+00
+12,Shakespeare's Sonnets,20.66,Books,4,2025-07-07 16:26:04.512943+00,2025-07-07 16:26:04.512943+00
+13,Set Me Free,17.46,Books,5,2025-07-07 16:26:04.821857+00,2025-07-07 16:26:04.821857+00
+14,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,Books,5,2025-07-07 16:26:05.108549+00,2025-07-07 16:26:05.108549+00
+15,Rip it Up and Start Again,35.02,Books,5,2025-07-07 16:26:05.414905+00,2025-07-07 16:26:05.414905+00
+16,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,Books,3,2025-07-07 16:26:05.710314+00,2025-07-07 16:26:05.710314+00
+17,Olio,23.88,Books,1,2025-07-07 16:26:05.999409+00,2025-07-07 16:26:05.999409+00
+18,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,Books,1,2025-07-07 16:26:06.31349+00,2025-07-07 16:26:06.31349+00
+19,Libertarianism for Beginners,51.33,Books,2,2025-07-07 16:26:06.610611+00,2025-07-07 16:26:06.610611+00
+20,It's Only the Himalayas,45.17,Books,2,2025-07-07 16:26:06.925327+00,2025-07-07 16:26:06.925327+00
+21,In Her Wake,12.84,Books,1,2025-07-07 16:26:07.228758+00,2025-07-07 16:26:07.228758+00
+22,How Music Works,37.32,Books,2,2025-07-07 16:26:07.522932+00,2025-07-07 16:26:07.522932+00
+23,"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",30.52,Books,3,2025-07-07 16:26:07.804629+00,2025-07-07 16:26:07.804629+00
+24,Chase Me (Paris Nights #2),25.27,Books,5,2025-07-07 16:26:08.102791+00,2025-07-07 16:26:08.102791+00
+25,Black Dust,34.53,Books,5,2025-07-07 16:26:08.408994+00,2025-07-07 16:26:08.408994+00
+26,Birdsong: A Story in Pictures,54.64,Books,3,2025-07-07 16:26:08.69974+00,2025-07-07 16:26:08.69974+00
+27,America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,22.50,Books,3,2025-07-07 16:26:09.002348+00,2025-07-07 16:26:09.002348+00
+28,Aladdin and His Wonderful Lamp,53.13,Books,3,2025-07-07 16:26:09.310538+00,2025-07-07 16:26:09.310538+00
+29,Worlds Elsewhere: Journeys Around Shakespeare’s Globe,40.30,Books,5,2025-07-07 16:26:09.604775+00,2025-07-07 16:26:09.604775+00
+30,Wall and Piece,44.18,Books,4,2025-07-07 16:26:09.917298+00,2025-07-07 16:26:09.917298+00
+31,The Four Agreements: A Practical Guide to Personal Freedom,17.66,Books,5,2025-07-07 16:26:10.21384+00,2025-07-07 16:26:10.21384+00
+32,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,31.05,Books,3,2025-07-07 16:26:10.511855+00,2025-07-07 16:26:10.511855+00
+33,The Elephant Tree,23.82,Books,5,2025-07-07 16:26:10.817093+00,2025-07-07 16:26:10.817093+00
+34,The Bear and the Piano,36.89,Books,1,2025-07-07 16:26:11.148131+00,2025-07-07 16:26:11.148131+00
+35,Sophie's World,15.94,Books,5,2025-07-07 16:26:11.502965+00,2025-07-07 16:26:11.502965+00
+36,Penny Maybe,33.29,Books,3,2025-07-07 16:26:11.815209+00,2025-07-07 16:26:11.815209+00
+37,Maude (1883-1993):She Grew Up with the country,18.02,Books,2,2025-07-07 16:26:12.114403+00,2025-07-07 16:26:12.114403+00
+38,"In a Dark, Dark Wood",19.63,Books,1,2025-07-07 16:26:12.43101+00,2025-07-07 16:26:12.43101+00
+39,Behind Closed Doors,52.22,Books,4,2025-07-07 16:26:12.720645+00,2025-07-07 16:26:12.720645+00
+40,You can't bury them all: Poems,33.63,Books,2,2025-07-07 16:26:13.061188+00,2025-07-07 16:26:13.061188+00
+41,Slow States of Collapse: Poems,57.31,Books,3,2025-07-07 16:26:13.342739+00,2025-07-07 16:26:13.342739+00
+42,Reasons to Stay Alive,26.41,Books,2,2025-07-07 16:26:13.661319+00,2025-07-07 16:26:13.661319+00
+43,Private Paris (Private #10),47.61,Books,5,2025-07-07 16:26:13.952333+00,2025-07-07 16:26:13.952333+00
+44,#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,23.11,Books,5,2025-07-07 16:26:14.267381+00,2025-07-07 16:26:14.267381+00
+45,Without Borders (Wanderlove #1),45.07,Books,2,2025-07-07 16:26:14.595582+00,2025-07-07 16:26:14.595582+00
+46,When We Collided,31.77,Books,1,2025-07-07 16:26:14.909221+00,2025-07-07 16:26:14.909221+00
+47,"We Love You, Charlie Freeman",50.27,Books,5,2025-07-07 16:26:15.204269+00,2025-07-07 16:26:15.204269+00
+48,Untitled Collection: Sabbath Poems 2014,14.27,Books,4,2025-07-07 16:26:15.50761+00,2025-07-07 16:26:15.50761+00
+49,"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",44.18,Books,4,2025-07-07 16:26:15.825184+00,2025-07-07 16:26:15.825184+00
+50,Unicorn Tracks,18.78,Books,3,2025-07-07 16:26:16.13326+00,2025-07-07 16:26:16.13326+00
+51,"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",25.52,Books,1,2025-07-07 16:26:16.431776+00,2025-07-07 16:26:16.431776+00
+52,Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),16.28,Books,1,2025-07-07 16:26:16.714742+00,2025-07-07 16:26:16.714742+00
+53,Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,31.12,Books,3,2025-07-07 16:26:17.009983+00,2025-07-07 16:26:17.009983+00
+54,This One Summer,19.49,Books,4,2025-07-07 16:26:17.315985+00,2025-07-07 16:26:17.315985+00
+55,Thirst,17.27,Books,5,2025-07-07 16:26:17.635392+00,2025-07-07 16:26:17.635392+00
+56,The Torch Is Passed: A Harding Family Story,19.09,Books,1,2025-07-07 16:26:17.931045+00,2025-07-07 16:26:17.931045+00
+57,The Secret of Dreadwillow Carse,56.13,Books,1,2025-07-07 16:26:18.234052+00,2025-07-07 16:26:18.234052+00
+58,"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",56.41,Books,1,2025-07-07 16:26:18.549979+00,2025-07-07 16:26:18.549979+00
+59,The Past Never Ends,56.50,Books,4,2025-07-07 16:26:18.84326+00,2025-07-07 16:26:18.84326+00
+60,The Natural History of Us (The Fine Art of Pretending #2),45.22,Books,3,2025-07-07 16:26:19.150513+00,2025-07-07 16:26:19.150513+00
+61,The Nameless City (The Nameless City #1),38.16,Books,4,2025-07-07 16:26:19.447733+00,2025-07-07 16:26:19.447733+00
+62,The Murder That Never Was (Forensic Instincts #5),54.11,Books,3,2025-07-07 16:26:19.775546+00,2025-07-07 16:26:19.775546+00
+63,The Most Perfect Thing: Inside (and Outside) a Bird's Egg,42.96,Books,4,2025-07-07 16:26:20.074032+00,2025-07-07 16:26:20.074032+00
+64,"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",23.89,Books,4,2025-07-07 16:26:20.361048+00,2025-07-07 16:26:20.361048+00
+65,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,16.77,Books,3,2025-07-07 16:26:20.654475+00,2025-07-07 16:26:20.654475+00
+66,"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",20.59,Books,5,2025-07-07 16:26:20.970981+00,2025-07-07 16:26:20.970981+00
+67,The Gutsy Girl: Escapades for Your Life of Epic Adventure,37.13,Books,1,2025-07-07 16:26:21.264839+00,2025-07-07 16:26:21.264839+00
+68,The Electric Pencil: Drawings from Inside State Hospital No. 3,56.06,Books,1,2025-07-07 16:26:21.559606+00,2025-07-07 16:26:21.559606+00
+69,The Death of Humanity: and the Case for Life,58.11,Books,4,2025-07-07 16:26:21.860797+00,2025-07-07 16:26:21.860797+00
+70,"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",49.05,Books,3,2025-07-07 16:26:22.157473+00,2025-07-07 16:26:22.157473+00
+71,The Art Forger,40.76,Books,3,2025-07-07 16:26:22.452632+00,2025-07-07 16:26:22.452632+00
+72,The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,19.73,Books,1,2025-07-07 16:26:22.74358+00,2025-07-07 16:26:22.74358+00
+73,The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,32.24,Books,5,2025-07-07 16:26:23.047253+00,2025-07-07 16:26:23.047253+00
+74,Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,41.83,Books,4,2025-07-07 16:26:23.353912+00,2025-07-07 16:26:23.353912+00
+75,Soul Reader,39.58,Books,2,2025-07-07 16:26:23.649297+00,2025-07-07 16:26:23.649297+00
+76,Security,39.25,Books,2,2025-07-07 16:26:23.943135+00,2025-07-07 16:26:23.943135+00
+77,"Saga, Volume 6 (Saga (Collected Editions) #6)",25.02,Books,3,2025-07-07 16:26:24.257649+00,2025-07-07 16:26:24.257649+00
+78,"Saga, Volume 5 (Saga (Collected Editions) #5)",51.04,Books,2,2025-07-07 16:26:24.554574+00,2025-07-07 16:26:24.554574+00
+79,Reskilling America: Learning to Labor in the Twenty-First Century,19.83,Books,2,2025-07-07 16:26:24.862832+00,2025-07-07 16:26:24.862832+00
+80,"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",50.40,Books,3,2025-07-07 16:26:25.176969+00,2025-07-07 16:26:25.176969+00
+81,"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",13.61,Books,5,2025-07-07 16:26:25.48016+00,2025-07-07 16:26:25.48016+00
+82,Princess Between Worlds (Wide-Awake Princess #5),13.34,Books,5,2025-07-07 16:26:25.788692+00,2025-07-07 16:26:25.788692+00
+83,"Pop Gun War, Volume 1: Gift",18.97,Books,1,2025-07-07 16:26:26.109426+00,2025-07-07 16:26:26.109426+00
+84,"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",36.28,Books,2,2025-07-07 16:26:26.420776+00,2025-07-07 16:26:26.420776+00
+85,Patience,10.16,Books,3,2025-07-07 16:26:26.737346+00,2025-07-07 16:26:26.737346+00
+86,"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",15.44,Books,4,2025-07-07 16:26:27.022133+00,2025-07-07 16:26:27.022133+00
+87,orange: The Complete Collection 1 (orange: The Complete Collection #1),48.41,Books,1,2025-07-07 16:26:27.344418+00,2025-07-07 16:26:27.344418+00
+88,Online Marketing for Busy Authors: A Step-By-Step Guide,46.35,Books,1,2025-07-07 16:26:27.6511+00,2025-07-07 16:26:27.6511+00
+89,On a Midnight Clear,14.07,Books,3,2025-07-07 16:26:27.968859+00,2025-07-07 16:26:27.968859+00
+90,Obsidian (Lux #1),14.86,Books,2,2025-07-07 16:26:28.295158+00,2025-07-07 16:26:28.295158+00
+91,My Paris Kitchen: Recipes and Stories,33.37,Books,2,2025-07-07 16:26:28.576204+00,2025-07-07 16:26:28.576204+00
+92,Masks and Shadows,56.40,Books,2,2025-07-07 16:26:28.878806+00,2025-07-07 16:26:28.878806+00
+93,"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",14.02,Books,4,2025-07-07 16:26:29.174441+00,2025-07-07 16:26:29.174441+00
+94,"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",46.91,Books,2,2025-07-07 16:26:29.482608+00,2025-07-07 16:26:29.482608+00
+95,"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",45.61,Books,3,2025-07-07 16:26:29.77623+00,2025-07-07 16:26:29.77623+00
+96,Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),19.92,Books,2,2025-07-07 16:26:30.0763+00,2025-07-07 16:26:30.0763+00
+97,"Layered: Baking, Building, and Styling Spectacular Cakes",40.11,Books,1,2025-07-07 16:26:30.37527+00,2025-07-07 16:26:30.37527+00
+98,Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),53.90,Books,2,2025-07-07 16:26:30.677083+00,2025-07-07 16:26:30.677083+00
+99,Join,35.67,Books,5,2025-07-07 16:26:30.974115+00,2025-07-07 16:26:30.974115+00
+100,In the Country We Love: My Family Divided,22.00,Books,4,2025-07-07 16:26:31.269308+00,2025-07-07 16:26:31.269308+00
+101,Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,57.36,Books,5,2025-07-07 16:26:31.565414+00,2025-07-07 16:26:31.565414+00
+102,"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",29.17,Books,2,2025-07-07 16:26:31.86095+00,2025-07-07 16:26:31.86095+00
+103,I am a Hero Omnibus Volume 1,54.63,Books,3,2025-07-07 16:26:32.17696+00,2025-07-07 16:26:32.17696+00
+104,How to Be Miserable: 40 Strategies You Already Use,46.03,Books,1,2025-07-07 16:26:32.493212+00,2025-07-07 16:26:32.493212+00
+105,Her Backup Boyfriend (The Sorensen Family #1),33.97,Books,1,2025-07-07 16:26:32.81728+00,2025-07-07 16:26:32.81728+00
+106,"Giant Days, Vol. 2 (Giant Days #5-8)",22.11,Books,2,2025-07-07 16:26:33.115234+00,2025-07-07 16:26:33.115234+00
+107,Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,29.69,Books,3,2025-07-07 16:26:33.42758+00,2025-07-07 16:26:33.42758+00
+108,First and First (Five Boroughs #3),15.97,Books,4,2025-07-07 16:26:33.743471+00,2025-07-07 16:26:33.743471+00
+109,Fifty Shades Darker (Fifty Shades #2),21.96,Books,1,2025-07-07 16:26:34.046096+00,2025-07-07 16:26:34.046096+00
+110,Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,54.35,Books,2,2025-07-07 16:26:34.329053+00,2025-07-07 16:26:34.329053+00
+111,"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",37.97,Books,2,2025-07-07 16:26:34.622508+00,2025-07-07 16:26:34.622508+00
+112,Danganronpa Volume 1,51.99,Books,4,2025-07-07 16:26:34.913862+00,2025-07-07 16:26:34.913862+00
+113,Crown of Midnight (Throne of Glass #2),43.29,Books,3,2025-07-07 16:26:35.241026+00,2025-07-07 16:26:35.241026+00
+114,"Codename Baboushka, Volume 1: The Conclave of Death",36.72,Books,4,2025-07-07 16:26:35.553673+00,2025-07-07 16:26:35.553673+00
+115,Camp Midnight,17.08,Books,4,2025-07-07 16:26:35.848388+00,2025-07-07 16:26:35.848388+00
+116,Call the Nurse: True Stories of a Country Nurse on a Scottish Isle,29.14,Books,5,2025-07-07 16:26:36.168195+00,2025-07-07 16:26:36.168195+00
+117,Burning,28.81,Books,3,2025-07-07 16:26:36.474083+00,2025-07-07 16:26:36.474083+00
+118,Bossypants,49.46,Books,2,2025-07-07 16:26:36.765265+00,2025-07-07 16:26:36.765265+00
+119,"Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))",37.92,Books,2,2025-07-07 16:26:37.070082+00,2025-07-07 16:26:37.070082+00
+120,"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",28.09,Books,2,2025-07-07 16:26:37.370239+00,2025-07-07 16:26:37.370239+00
+121,Algorithms to Live By: The Computer Science of Human Decisions,30.81,Books,1,2025-07-07 16:26:37.671397+00,2025-07-07 16:26:37.671397+00
+122,A World of Flavor: Your Gluten Free Passport,42.95,Books,1,2025-07-07 16:26:37.96284+00,2025-07-07 16:26:37.96284+00
+123,"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",56.76,Books,5,2025-07-07 16:26:38.273278+00,2025-07-07 16:26:38.273278+00
+124,A Murder in Time,16.64,Books,1,2025-07-07 16:26:38.591105+00,2025-07-07 16:26:38.591105+00
+125,A Flight of Arrows (The Pathfinders #2),55.53,Books,5,2025-07-07 16:26:38.900178+00,2025-07-07 16:26:38.900178+00
+126,A Fierce and Subtle Poison,28.13,Books,4,2025-07-07 16:26:39.198299+00,2025-07-07 16:26:39.198299+00
+127,A Court of Thorns and Roses (A Court of Thorns and Roses #1),52.37,Books,1,2025-07-07 16:26:39.494495+00,2025-07-07 16:26:39.494495+00
+128,(Un)Qualified: How God Uses Broken People to Do Big Things,54.00,Books,5,2025-07-07 16:26:39.795458+00,2025-07-07 16:26:39.795458+00
+129,You Are What You Love: The Spiritual Power of Habit,21.87,Books,4,2025-07-07 16:26:40.094908+00,2025-07-07 16:26:40.094908+00
+130,"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",43.30,Books,4,2025-07-07 16:26:40.397613+00,2025-07-07 16:26:40.397613+00
+131,Tuesday Nights in 1980,21.04,Books,2,2025-07-07 16:26:40.707056+00,2025-07-07 16:26:40.707056+00
+132,Tracing Numbers on a Train,41.60,Books,3,2025-07-07 16:26:41.022977+00,2025-07-07 16:26:41.022977+00
+133,Throne of Glass (Throne of Glass #1),35.07,Books,3,2025-07-07 16:26:41.320387+00,2025-07-07 16:26:41.320387+00
+134,Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,59.64,Books,1,2025-07-07 16:26:41.649118+00,2025-07-07 16:26:41.649118+00
+135,Thirteen Reasons Why,52.72,Books,1,2025-07-07 16:26:41.964027+00,2025-07-07 16:26:41.964027+00
+136,The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”,58.08,Books,4,2025-07-07 16:26:42.309336+00,2025-07-07 16:26:42.309336+00
+137,The Wedding Dress,24.12,Books,1,2025-07-07 16:26:42.621518+00,2025-07-07 16:26:42.621518+00
+138,The Vacationers,42.15,Books,4,2025-07-07 16:26:42.907105+00,2025-07-07 16:26:42.907105+00
+139,The Third Wave: An Entrepreneur’s Vision of the Future,12.61,Books,5,2025-07-07 16:26:43.202836+00,2025-07-07 16:26:43.202836+00
+140,The Stranger,17.44,Books,4,2025-07-07 16:26:43.500305+00,2025-07-07 16:26:43.500305+00
+141,The Shadow Hero (The Shadow Hero),33.14,Books,1,2025-07-07 16:26:43.814245+00,2025-07-07 16:26:43.814245+00
+142,The Secret (The Secret #1),27.37,Books,4,2025-07-07 16:26:44.114957+00,2025-07-07 16:26:44.114957+00
+143,The Regional Office Is Under Attack!,51.36,Books,5,2025-07-07 16:26:44.417065+00,2025-07-07 16:26:44.417065+00
+144,The Psychopath Test: A Journey Through the Madness Industry,36.00,Books,2,2025-07-07 16:26:44.712019+00,2025-07-07 16:26:44.712019+00
+145,The Project,10.65,Books,1,2025-07-07 16:26:45.008974+00,2025-07-07 16:26:45.008974+00
+146,The Power of Now: A Guide to Spiritual Enlightenment,43.54,Books,2,2025-07-07 16:26:45.316088+00,2025-07-07 16:26:45.316088+00
+147,The Omnivore's Dilemma: A Natural History of Four Meals,38.21,Books,2,2025-07-07 16:26:45.606823+00,2025-07-07 16:26:45.606823+00
+148,The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,37.34,Books,5,2025-07-07 16:26:45.929622+00,2025-07-07 16:26:45.929622+00
+149,The Murder of Roger Ackroyd (Hercule Poirot #4),44.10,Books,4,2025-07-07 16:26:46.239519+00,2025-07-07 16:26:46.239519+00
+150,The Mistake (Off-Campus #2),43.29,Books,3,2025-07-07 16:26:46.531072+00,2025-07-07 16:26:46.531072+00
+151,The Matchmaker's Playbook (Wingmen Inc. #1),55.85,Books,1,2025-07-07 16:26:46.837163+00,2025-07-07 16:26:46.837163+00
+152,The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,37.60,Books,2,2025-07-07 16:26:47.139973+00,2025-07-07 16:26:47.139973+00
+153,The Long Shadow of Small Ghosts: Murder and Memory in an American City,10.97,Books,1,2025-07-07 16:26:47.435274+00,2025-07-07 16:26:47.435274+00
+154,The Kite Runner,41.82,Books,4,2025-07-07 16:26:47.732776+00,2025-07-07 16:26:47.732776+00
+155,The House by the Lake,36.95,Books,1,2025-07-07 16:26:48.019389+00,2025-07-07 16:26:48.019389+00
+156,The Glittering Court (The Glittering Court #1),44.28,Books,1,2025-07-07 16:26:48.330458+00,2025-07-07 16:26:48.330458+00
+157,The Girl on the Train,55.02,Books,2,2025-07-07 16:26:48.62034+00,2025-07-07 16:26:48.62034+00
+158,The Genius of Birds,17.24,Books,1,2025-07-07 16:26:48.913713+00,2025-07-07 16:26:48.913713+00
+159,The Emerald Mystery,23.15,Books,2,2025-07-07 16:26:49.205865+00,2025-07-07 16:26:49.205865+00
+160,The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First,41.25,Books,1,2025-07-07 16:26:49.513998+00,2025-07-07 16:26:49.513998+00
+161,The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.,32.00,Books,3,2025-07-07 16:26:49.850915+00,2025-07-07 16:26:49.850915+00
+162,The Artist's Way: A Spiritual Path to Higher Creativity,38.49,Books,5,2025-07-07 16:26:50.148073+00,2025-07-07 16:26:50.148073+00
+163,The Art of War,33.34,Books,5,2025-07-07 16:26:50.455284+00,2025-07-07 16:26:50.455284+00
+164,The Argonauts,10.93,Books,2,2025-07-07 16:26:50.757251+00,2025-07-07 16:26:50.757251+00
+165,The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,27.55,Books,3,2025-07-07 16:26:51.05986+00,2025-07-07 16:26:51.05986+00
+166,Suddenly in Love (Lake Haven #1),55.99,Books,2,2025-07-07 16:26:51.374193+00,2025-07-07 16:26:51.374193+00
+167,Something More Than This,16.24,Books,4,2025-07-07 16:26:51.665464+00,2025-07-07 16:26:51.665464+00
+168,Soft Apocalypse,26.12,Books,2,2025-07-07 16:26:51.957236+00,2025-07-07 16:26:51.957236+00
+169,So You've Been Publicly Shamed,12.23,Books,2,2025-07-07 16:26:52.257342+00,2025-07-07 16:26:52.257342+00
+170,Shoe Dog: A Memoir by the Creator of NIKE,23.99,Books,2,2025-07-07 16:26:52.587528+00,2025-07-07 16:26:52.587528+00
+171,"Shobu Samurai, Project Aryoku (#3)",29.06,Books,3,2025-07-07 16:26:52.894488+00,2025-07-07 16:26:52.894488+00
+172,Secrets and Lace (Fatal Hearts #1),20.27,Books,1,2025-07-07 16:26:53.202098+00,2025-07-07 16:26:53.202098+00
+173,Scarlett Epstein Hates It Here,43.55,Books,5,2025-07-07 16:26:53.522011+00,2025-07-07 16:26:53.522011+00
+174,Romero and Juliet: A Tragic Tale of Love and Zombies,36.94,Books,1,2025-07-07 16:26:53.816175+00,2025-07-07 16:26:53.816175+00
+175,Redeeming Love,20.47,Books,5,2025-07-07 16:26:54.102748+00,2025-07-07 16:26:54.102748+00
+176,Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form,41.06,Books,1,2025-07-07 16:26:54.405758+00,2025-07-07 16:26:54.405758+00
+177,Poems That Make Grown Women Cry,14.19,Books,4,2025-07-07 16:26:54.709152+00,2025-07-07 16:26:54.709152+00
+178,"Nightingale, Sing",38.28,Books,1,2025-07-07 16:26:55.016731+00,2025-07-07 16:26:55.016731+00
+179,Night Sky with Exit Wounds,41.05,Books,1,2025-07-07 16:26:55.312305+00,2025-07-07 16:26:55.312305+00
+180,Mrs. Houdini,30.25,Books,5,2025-07-07 16:26:55.70315+00,2025-07-07 16:26:55.70315+00
+181,Modern Romance,28.26,Books,5,2025-07-07 16:26:56.008395+00,2025-07-07 16:26:56.008395+00
+182,Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children #1),10.76,Books,1,2025-07-07 16:26:56.304998+00,2025-07-07 16:26:56.304998+00
+183,Louisa: The Extraordinary Life of Mrs. Adams,16.85,Books,2,2025-07-07 16:26:56.620644+00,2025-07-07 16:26:56.620644+00
+184,Little Red,13.47,Books,3,2025-07-07 16:26:56.926273+00,2025-07-07 16:26:56.926273+00
+185,Library of Souls (Miss Peregrine’s Peculiar Children #3),48.56,Books,5,2025-07-07 16:26:57.225262+00,2025-07-07 16:26:57.225262+00
+186,Large Print Heart of the Pride,19.15,Books,2,2025-07-07 16:26:57.520574+00,2025-07-07 16:26:57.520574+00
+187,I Had a Nice Time And Other Lies...: How to find love & sh*t like that,57.36,Books,4,2025-07-07 16:26:57.834143+00,2025-07-07 16:26:57.834143+00
+188,Hollow City (Miss Peregrine’s Peculiar Children #2),42.98,Books,1,2025-07-07 16:26:58.148336+00,2025-07-07 16:26:58.148336+00
+189,Grumbles,22.16,Books,2,2025-07-07 16:26:58.452555+00,2025-07-07 16:26:58.452555+00
+190,Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond,49.43,Books,4,2025-07-07 16:26:58.747716+00,2025-07-07 16:26:58.747716+00
+191,Frostbite (Vampire Academy #2),29.99,Books,5,2025-07-07 16:26:59.043931+00,2025-07-07 16:26:59.043931+00
+192,Follow You Home,21.36,Books,1,2025-07-07 16:26:59.336417+00,2025-07-07 16:26:59.336417+00
+193,First Steps for New Christians (Print Edition),29.00,Books,1,2025-07-07 16:26:59.623628+00,2025-07-07 16:26:59.623628+00
+194,Finders Keepers (Bill Hodges Trilogy #2),53.53,Books,5,2025-07-07 16:26:59.918192+00,2025-07-07 16:26:59.918192+00
+195,"Fables, Vol. 1: Legends in Exile (Fables #1)",41.62,Books,4,2025-07-07 16:27:00.220532+00,2025-07-07 16:27:00.220532+00
+196,Eureka Trivia 6.0,54.59,Books,4,2025-07-07 16:27:00.514513+00,2025-07-07 16:27:00.514513+00
+197,Drive: The Surprising Truth About What Motivates Us,34.95,Books,4,2025-07-07 16:27:00.815805+00,2025-07-07 16:27:00.815805+00
+198,Done Rubbed Out (Reightman & Bailey #1),37.72,Books,5,2025-07-07 16:27:01.112229+00,2025-07-07 16:27:01.112229+00
+199,Doing It Over (Most Likely To #1),35.61,Books,3,2025-07-07 16:27:01.448873+00,2025-07-07 16:27:01.448873+00
+200,"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",42.16,Books,3,2025-07-07 16:27:01.736696+00,2025-07-07 16:27:01.736696+00
+201,Dark Notes,19.19,Books,5,2025-07-07 16:27:02.061435+00,2025-07-07 16:27:02.061435+00
+202,"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",19.43,Books,3,2025-07-07 16:27:02.381553+00,2025-07-07 16:27:02.381553+00
+203,Close to You,49.46,Books,4,2025-07-07 16:27:02.677747+00,2025-07-07 16:27:02.677747+00
+204,Chasing Heaven: What Dying Taught Me About Living,37.80,Books,2,2025-07-07 16:27:03.002348+00,2025-07-07 16:27:03.002348+00
+205,Big Magic: Creative Living Beyond Fear,30.80,Books,3,2025-07-07 16:27:03.302212+00,2025-07-07 16:27:03.302212+00
+206,Becoming Wise: An Inquiry into the Mystery and Art of Living,27.43,Books,2,2025-07-07 16:27:03.613362+00,2025-07-07 16:27:03.613362+00
+207,Beauty Restored (Riley Family Legacy Novellas #3),11.11,Books,2,2025-07-07 16:27:03.931887+00,2025-07-07 16:27:03.931887+00
+208,Batman: The Long Halloween (Batman),36.50,Books,2,2025-07-07 16:27:04.239781+00,2025-07-07 16:27:04.239781+00
+209,Batman: The Dark Knight Returns (Batman),15.38,Books,5,2025-07-07 16:27:04.557664+00,2025-07-07 16:27:04.557664+00
+210,Ayumi's Violin,15.48,Books,2,2025-07-07 16:27:04.879212+00,2025-07-07 16:27:04.879212+00
+211,Anonymous,46.82,Books,4,2025-07-07 16:27:05.184324+00,2025-07-07 16:27:05.184324+00
+212,Amy Meets the Saints and Sages,18.46,Books,3,2025-07-07 16:27:05.4687+00,2025-07-07 16:27:05.4687+00
+213,Amid the Chaos,36.58,Books,1,2025-07-07 16:27:05.789275+00,2025-07-07 16:27:05.789275+00
+214,Amatus,50.54,Books,5,2025-07-07 16:27:06.091634+00,2025-07-07 16:27:06.091634+00
+215,Agnostic: A Spirited Manifesto,12.51,Books,5,2025-07-07 16:27:06.390827+00,2025-07-07 16:27:06.390827+00
+216,Zealot: The Life and Times of Jesus of Nazareth,24.70,Books,3,2025-07-07 16:27:06.703272+00,2025-07-07 16:27:06.703272+00
+217,You (You #1),43.61,Books,5,2025-07-07 16:27:07.03618+00,2025-07-07 16:27:07.03618+00
+218,"Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)",37.34,Books,4,2025-07-07 16:27:07.337298+00,2025-07-07 16:27:07.337298+00
+219,Wild Swans,14.36,Books,2,2025-07-07 16:27:07.661117+00,2025-07-07 16:27:07.661117+00
+220,Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond,52.65,Books,4,2025-07-07 16:27:07.965659+00,2025-07-07 16:27:07.965659+00
+221,Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity,38.20,Books,4,2025-07-07 16:27:08.285075+00,2025-07-07 16:27:08.285075+00
+222,What's It Like in Space?: Stories from Astronauts Who've Been There,19.60,Books,2,2025-07-07 16:27:08.604629+00,2025-07-07 16:27:08.604629+00
+223,"We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)",53.90,Books,1,2025-07-07 16:27:08.915049+00,2025-07-07 16:27:08.915049+00
+224,Walt Disney's Alice in Wonderland,12.96,Books,5,2025-07-07 16:27:09.265393+00,2025-07-07 16:27:09.265393+00
+225,V for Vendetta (V for Vendetta Complete),37.10,Books,4,2025-07-07 16:27:09.580481+00,2025-07-07 16:27:09.580481+00
+226,Until Friday Night (The Field Party #1),46.31,Books,2,2025-07-07 16:27:09.887041+00,2025-07-07 16:27:09.887041+00
+227,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",45.95,Books,2,2025-07-07 16:27:10.219759+00,2025-07-07 16:27:10.219759+00
+228,Twenty Yawns,22.08,Books,2,2025-07-07 16:27:10.533886+00,2025-07-07 16:27:10.533886+00
+229,Through the Woods,25.38,Books,2,2025-07-07 16:27:10.820374+00,2025-07-07 16:27:10.820374+00
+230,This Is Where It Ends,27.12,Books,2,2025-07-07 16:27:11.130783+00,2025-07-07 16:27:11.130783+00
+231,The Year of Magical Thinking,43.04,Books,2,2025-07-07 16:27:11.438085+00,2025-07-07 16:27:11.438085+00
+232,The Wright Brothers,56.80,Books,4,2025-07-07 16:27:11.738927+00,2025-07-07 16:27:11.738927+00
+233,The White Queen (The Cousins' War #1),25.91,Books,5,2025-07-07 16:27:12.032646+00,2025-07-07 16:27:12.032646+00
+234,The Wedding Pact (The O'Malleys #2),32.61,Books,3,2025-07-07 16:27:12.360404+00,2025-07-07 16:27:12.360404+00
+235,The Time Keeper,27.88,Books,5,2025-07-07 16:27:12.664025+00,2025-07-07 16:27:12.664025+00
+236,The Testament of Mary,52.67,Books,4,2025-07-07 16:27:12.952788+00,2025-07-07 16:27:12.952788+00
+237,The Star-Touched Queen,46.02,Books,5,2025-07-07 16:27:13.247919+00,2025-07-07 16:27:13.247919+00
+238,The Songs of the Gods,44.48,Books,5,2025-07-07 16:27:13.557766+00,2025-07-07 16:27:13.557766+00
+239,The Song of Achilles,37.40,Books,5,2025-07-07 16:27:13.873958+00,2025-07-07 16:27:13.873958+00
+240,The Rosie Project (Don Tillman #1),54.04,Books,1,2025-07-07 16:27:14.175908+00,2025-07-07 16:27:14.175908+00
+241,The Power of Habit: Why We Do What We Do in Life and Business,16.88,Books,3,2025-07-07 16:27:14.484989+00,2025-07-07 16:27:14.484989+00
+242,The Marriage of Opposites,28.08,Books,4,2025-07-07 16:27:14.77603+00,2025-07-07 16:27:14.77603+00
+243,The Lucifer Effect: Understanding How Good People Turn Evil,10.40,Books,1,2025-07-07 16:27:15.083053+00,2025-07-07 16:27:15.083053+00
+244,The Long Haul (Diary of a Wimpy Kid #9),44.07,Books,1,2025-07-07 16:27:15.391484+00,2025-07-07 16:27:15.391484+00
+245,The Loney,23.40,Books,1,2025-07-07 16:27:15.701148+00,2025-07-07 16:27:15.701148+00
+246,The Literature Book (Big Ideas Simply Explained),17.43,Books,3,2025-07-07 16:27:15.992745+00,2025-07-07 16:27:15.992745+00
+247,The Last Mile (Amos Decker #2),54.21,Books,2,2025-07-07 16:27:16.297475+00,2025-07-07 16:27:16.297475+00
+248,The Immortal Life of Henrietta Lacks,40.67,Books,2,2025-07-07 16:27:16.591148+00,2025-07-07 16:27:16.591148+00
+249,The Hidden Oracle (The Trials of Apollo #1),52.26,Books,2,2025-07-07 16:27:16.887878+00,2025-07-07 16:27:16.887878+00
+250,The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth,28.77,Books,3,2025-07-07 16:27:17.185812+00,2025-07-07 16:27:17.185812+00
+251,The Guilty (Will Robie #4),13.82,Books,2,2025-07-07 16:27:17.492902+00,2025-07-07 16:27:17.492902+00
+252,The First Hostage (J.B. Collins #2),25.85,Books,3,2025-07-07 16:27:17.802539+00,2025-07-07 16:27:17.802539+00
+253,The Dovekeepers,48.78,Books,1,2025-07-07 16:27:18.122281+00,2025-07-07 16:27:18.122281+00
+254,The Darkest Lie,35.35,Books,5,2025-07-07 16:27:18.439718+00,2025-07-07 16:27:18.439718+00
+255,The Bane Chronicles (The Bane Chronicles #1-11),44.73,Books,4,2025-07-07 16:27:18.747259+00,2025-07-07 16:27:18.747259+00
+256,The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World’s Most Precious Manuscripts,15.77,Books,1,2025-07-07 16:27:19.082443+00,2025-07-07 16:27:19.082443+00
+257,The 14th Colony (Cotton Malone #11),39.24,Books,1,2025-07-07 16:27:19.391082+00,2025-07-07 16:27:19.391082+00
+258,That Darkness (Gardiner and Renner #1),13.92,Books,1,2025-07-07 16:27:19.685977+00,2025-07-07 16:27:19.685977+00
+259,Tastes Like Fear (DI Marnie Rome #3),10.69,Books,1,2025-07-07 16:27:20.001704+00,2025-07-07 16:27:20.001704+00
+260,Take Me with You,45.21,Books,3,2025-07-07 16:27:20.2988+00,2025-07-07 16:27:20.2988+00
+261,Swell: A Year of Waves,45.58,Books,1,2025-07-07 16:27:20.611619+00,2025-07-07 16:27:20.611619+00
+262,Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1),11.89,Books,5,2025-07-07 16:27:20.939054+00,2025-07-07 16:27:20.939054+00
+263,Still Life with Bread Crumbs,26.41,Books,3,2025-07-07 16:27:21.239041+00,2025-07-07 16:27:21.239041+00
+264,Steve Jobs,39.50,Books,5,2025-07-07 16:27:21.575653+00,2025-07-07 16:27:21.575653+00
+265,Sorting the Beef from the Bull: The Science of Food Fraud Forensics,44.74,Books,4,2025-07-07 16:27:21.888438+00,2025-07-07 16:27:21.888438+00
+266,Someone Like You (The Harrisons #2),52.79,Books,5,2025-07-07 16:27:22.205903+00,2025-07-07 16:27:22.205903+00
+267,"So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)",35.43,Books,4,2025-07-07 16:27:22.513736+00,2025-07-07 16:27:22.513736+00
+268,Shtum,55.84,Books,4,2025-07-07 16:27:22.862686+00,2025-07-07 16:27:22.862686+00
+269,See America: A Celebration of Our National Parks & Treasured Sites,48.87,Books,3,2025-07-07 16:27:23.195821+00,2025-07-07 16:27:23.195821+00
+270,salt.,46.78,Books,4,2025-07-07 16:27:23.51698+00,2025-07-07 16:27:23.51698+00
+271,Robin War,47.82,Books,3,2025-07-07 16:27:23.823156+00,2025-07-07 16:27:23.823156+00
+272,"Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)",25.48,Books,2,2025-07-07 16:27:24.159397+00,2025-07-07 16:27:24.159397+00
+273,Rain Fish,23.57,Books,3,2025-07-07 16:27:24.480199+00,2025-07-07 16:27:24.480199+00
+274,"Quarter Life Poetry: Poems for the Young, Broke and Hangry",50.89,Books,5,2025-07-07 16:27:24.802296+00,2025-07-07 16:27:24.802296+00
+275,Pet Sematary,10.56,Books,3,2025-07-07 16:27:25.179504+00,2025-07-07 16:27:25.179504+00
+276,"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",52.15,Books,3,2025-07-07 16:27:25.496437+00,2025-07-07 16:27:25.496437+00
+277,Once Was a Time,18.28,Books,2,2025-07-07 16:27:25.796576+00,2025-07-07 16:27:25.796576+00
+278,Old School (Diary of a Wimpy Kid #10),11.83,Books,5,2025-07-07 16:27:26.116129+00,2025-07-07 16:27:26.116129+00
+279,No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon,21.95,Books,2,2025-07-07 16:27:26.440228+00,2025-07-07 16:27:26.440228+00
+280,"Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)",38.39,Books,2,2025-07-07 16:27:26.746845+00,2025-07-07 16:27:26.746845+00
+281,My Name Is Lucy Barton,41.56,Books,1,2025-07-07 16:27:27.038836+00,2025-07-07 16:27:27.038836+00
+282,My Mrs. Brown,24.48,Books,3,2025-07-07 16:27:27.342602+00,2025-07-07 16:27:27.342602+00
+283,My Kind of Crazy,40.36,Books,1,2025-07-07 16:27:27.642456+00,2025-07-07 16:27:27.642456+00
+284,Mr. Mercedes (Bill Hodges Trilogy #1),28.90,Books,1,2025-07-07 16:27:27.95611+00,2025-07-07 16:27:27.95611+00
+285,More Than Music (Chasing the Dream #1),37.61,Books,2,2025-07-07 16:27:28.278533+00,2025-07-07 16:27:28.278533+00
+286,Made to Stick: Why Some Ideas Survive and Others Die,38.85,Books,5,2025-07-07 16:27:28.590403+00,2025-07-07 16:27:28.590403+00
+287,Luis Paints the World,53.95,Books,3,2025-07-07 16:27:28.908819+00,2025-07-07 16:27:28.908819+00
+288,Luckiest Girl Alive,49.83,Books,3,2025-07-07 16:27:29.210329+00,2025-07-07 16:27:29.210329+00
+289,Lowriders to the Center of the Earth (Lowriders in Space #2),51.51,Books,2,2025-07-07 16:27:29.515795+00,2025-07-07 16:27:29.515795+00
+290,Love Is a Mix Tape (Music #1),18.03,Books,1,2025-07-07 16:27:29.845176+00,2025-07-07 16:27:29.845176+00
+291,Looking for Lovely: Collecting the Moments that Matter,29.14,Books,5,2025-07-07 16:27:30.150814+00,2025-07-07 16:27:30.150814+00
+292,"Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments",46.91,Books,4,2025-07-07 16:27:30.483701+00,2025-07-07 16:27:30.483701+00
+293,Let It Out: A Journey Through Journaling,26.79,Books,5,2025-07-07 16:27:30.786623+00,2025-07-07 16:27:30.786623+00
+294,Lady Midnight (The Dark Artifices #1),16.28,Books,5,2025-07-07 16:27:31.078178+00,2025-07-07 16:27:31.078178+00
+295,"It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",19.55,Books,1,2025-07-07 16:27:31.377562+00,2025-07-07 16:27:31.377562+00
+296,Island of Dragons (Unwanteds #7),29.65,Books,1,2025-07-07 16:27:31.742269+00,2025-07-07 16:27:31.742269+00
+297,I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction,25.98,Books,4,2025-07-07 16:27:32.036229+00,2025-07-07 16:27:32.036229+00
+298,I Am Pilgrim (Pilgrim #1),10.60,Books,4,2025-07-07 16:27:32.353939+00,2025-07-07 16:27:32.353939+00
+299,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",14.75,Books,5,2025-07-07 16:27:32.676665+00,2025-07-07 16:27:32.676665+00
+300,"Hush, Hush (Hush, Hush #1)",47.02,Books,3,2025-07-07 16:27:32.984664+00,2025-07-07 16:27:32.984664+00
+301,Hold Your Breath (Search and Rescue #1),28.82,Books,1,2025-07-07 16:27:33.275939+00,2025-07-07 16:27:33.275939+00
+302,Hamilton: The Revolution,58.79,Books,3,2025-07-07 16:27:33.58488+00,2025-07-07 16:27:33.58488+00
+303,Greek Mythic History,10.23,Books,5,2025-07-07 16:27:33.902142+00,2025-07-07 16:27:33.902142+00
+304,God: The Most Unpleasant Character in All Fiction,30.03,Books,5,2025-07-07 16:27:34.187108+00,2025-07-07 16:27:34.187108+00
+305,Glory over Everything: Beyond The Kitchen House,45.84,Books,3,2025-07-07 16:27:34.482812+00,2025-07-07 16:27:34.482812+00
+306,Feathers: Displays of Brilliant Plumage,49.05,Books,3,2025-07-07 16:27:34.807029+00,2025-07-07 16:27:34.807029+00
+307,"Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years",15.06,Books,4,2025-07-07 16:27:35.100579+00,2025-07-07 16:27:35.100579+00
+308,Every Last Word,46.47,Books,3,2025-07-07 16:27:35.422267+00,2025-07-07 16:27:35.422267+00
+309,Eligible (The Austen Project #4),27.09,Books,3,2025-07-07 16:27:35.742092+00,2025-07-07 16:27:35.742092+00
+310,El Deafo,57.62,Books,5,2025-07-07 16:27:36.042494+00,2025-07-07 16:27:36.042494+00
+311,Eight Hundred Grapes,14.39,Books,4,2025-07-07 16:27:36.358696+00,2025-07-07 16:27:36.358696+00
+312,"Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life",51.75,Books,5,2025-07-07 16:27:36.657098+00,2025-07-07 16:27:36.657098+00
+313,"Eat Fat, Get Thin",54.07,Books,2,2025-07-07 16:27:36.967344+00,2025-07-07 16:27:36.967344+00
+314,Don't Get Caught,55.35,Books,1,2025-07-07 16:27:37.267445+00,2025-07-07 16:27:37.267445+00
+315,Doctor Sleep (The Shining #2),40.12,Books,2,2025-07-07 16:27:37.583052+00,2025-07-07 16:27:37.583052+00
+316,Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3),37.51,Books,5,2025-07-07 16:27:37.910759+00,2025-07-07 16:27:37.910759+00
+317,Dear Mr. Knightley,11.21,Books,5,2025-07-07 16:27:38.225658+00,2025-07-07 16:27:38.225658+00
+318,Daily Fantasy Sports,36.58,Books,1,2025-07-07 16:27:38.541519+00,2025-07-07 16:27:38.541519+00
+319,Crazy Love: Overwhelmed by a Relentless God,47.72,Books,2,2025-07-07 16:27:38.833129+00,2025-07-07 16:27:38.833129+00
+320,Cometh the Hour (The Clifton Chronicles #6),25.01,Books,3,2025-07-07 16:27:39.144264+00,2025-07-07 16:27:39.144264+00
+321,Code Name Verity (Code Name Verity #1),22.13,Books,4,2025-07-07 16:27:39.456726+00,2025-07-07 16:27:39.456726+00
+322,Clockwork Angel (The Infernal Devices #1),44.14,Books,1,2025-07-07 16:27:39.757086+00,2025-07-07 16:27:39.757086+00
+323,City of Glass (The Mortal Instruments #3),56.02,Books,4,2025-07-07 16:27:40.072351+00,2025-07-07 16:27:40.072351+00
+324,City of Fallen Angels (The Mortal Instruments #4),11.23,Books,4,2025-07-07 16:27:40.373295+00,2025-07-07 16:27:40.373295+00
+325,City of Bones (The Mortal Instruments #1),43.28,Books,1,2025-07-07 16:27:40.687552+00,2025-07-07 16:27:40.687552+00
+326,City of Ashes (The Mortal Instruments #2),47.27,Books,1,2025-07-07 16:27:41.015487+00,2025-07-07 16:27:41.015487+00
+327,Cell,20.29,Books,4,2025-07-07 16:27:41.326637+00,2025-07-07 16:27:41.326637+00
+328,Catching Jordan (Hundred Oaks),50.83,Books,3,2025-07-07 16:27:41.647231+00,2025-07-07 16:27:41.647231+00
+329,"Carry On, Warrior: Thoughts on Life Unarmed",31.85,Books,3,2025-07-07 16:27:41.96943+00,2025-07-07 16:27:41.96943+00
+330,Carrie,46.23,Books,2,2025-07-07 16:27:42.384785+00,2025-07-07 16:27:42.384785+00
+331,Buying In: The Secret Dialogue Between What We Buy and Who We Are,37.80,Books,4,2025-07-07 16:27:42.676842+00,2025-07-07 16:27:42.676842+00
+332,Brain on Fire: My Month of Madness,49.32,Books,5,2025-07-07 16:27:42.984784+00,2025-07-07 16:27:42.984784+00
+333,Batman: Europa,32.01,Books,2,2025-07-07 16:27:43.333172+00,2025-07-07 16:27:43.333172+00
+334,Barefoot Contessa Back to Basics,28.01,Books,1,2025-07-07 16:27:43.655483+00,2025-07-07 16:27:43.655483+00
+335,Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,50.62,Books,5,2025-07-07 16:27:43.952757+00,2025-07-07 16:27:43.952757+00
+336,Balloon Animals,17.03,Books,3,2025-07-07 16:27:44.256862+00,2025-07-07 16:27:44.256862+00
+337,Art Ops Vol. 1,48.80,Books,3,2025-07-07 16:27:44.557559+00,2025-07-07 16:27:44.557559+00
+338,Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),58.14,Books,4,2025-07-07 16:27:44.853923+00,2025-07-07 16:27:44.853923+00
+339,Angels Walking (Angels Walking #1),34.20,Books,2,2025-07-07 16:27:45.162614+00,2025-07-07 16:27:45.162614+00
+340,Angels & Demons (Robert Langdon #1),51.48,Books,3,2025-07-07 16:27:45.459136+00,2025-07-07 16:27:45.459136+00
+341,All the Light We Cannot See,29.87,Books,5,2025-07-07 16:27:45.756881+00,2025-07-07 16:27:45.756881+00
+342,"Adulthood Is a Myth: A ""Sarah's Scribbles"" Collection",10.90,Books,2,2025-07-07 16:27:46.061776+00,2025-07-07 16:27:46.061776+00
+343,Abstract City,56.37,Books,5,2025-07-07 16:27:46.375514+00,2025-07-07 16:27:46.375514+00
+344,A Time of Torment (Charlie Parker #14),48.35,Books,5,2025-07-07 16:27:46.688291+00,2025-07-07 16:27:46.688291+00
+345,A Study in Scarlet (Sherlock Holmes #1),16.73,Books,2,2025-07-07 16:27:47.000179+00,2025-07-07 16:27:47.000179+00
+346,"A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",56.48,Books,2,2025-07-07 16:27:47.295842+00,2025-07-07 16:27:47.295842+00
+347,A People's History of the United States,40.79,Books,2,2025-07-07 16:27:47.586354+00,2025-07-07 16:27:47.586354+00
+348,A Man Called Ove,39.72,Books,1,2025-07-07 16:27:47.895002+00,2025-07-07 16:27:47.895002+00
+349,A Distant Mirror: The Calamitous 14th Century,14.58,Books,3,2025-07-07 16:27:48.228805+00,2025-07-07 16:27:48.228805+00
+350,A Brush of Wings (Angels Walking #3),55.51,Books,1,2025-07-07 16:27:48.52501+00,2025-07-07 16:27:48.52501+00
+351,1491: New Revelations of the Americas Before Columbus,21.80,Books,3,2025-07-07 16:27:48.836727+00,2025-07-07 16:27:48.836727+00
+352,"The Three Searches, Meaning, and the Story",13.33,Books,3,2025-07-07 16:27:49.137776+00,2025-07-07 16:27:49.137776+00
+353,Searching for Meaning in Gailana,38.73,Books,1,2025-07-07 16:27:49.441718+00,2025-07-07 16:27:49.441718+00
+354,Rook,37.86,Books,4,2025-07-07 16:27:49.745056+00,2025-07-07 16:27:49.745056+00
+355,My Kitchen Year: 136 Recipes That Saved My Life,11.53,Books,2,2025-07-07 16:27:50.053714+00,2025-07-07 16:27:50.053714+00
+356,13 Hours: The Inside Account of What Really Happened In Benghazi,27.06,Books,1,2025-07-07 16:27:50.370069+00,2025-07-07 16:27:50.370069+00
+357,Will You Won't You Want Me?,13.86,Books,3,2025-07-07 16:27:50.67056+00,2025-07-07 16:27:50.67056+00
+358,Tipping Point for Planet Earth: How Close Are We to the Edge?,37.55,Books,1,2025-07-07 16:27:50.971386+00,2025-07-07 16:27:50.971386+00
+359,The Silent Sister (Riley MacPherson #1),46.29,Books,5,2025-07-07 16:27:51.430447+00,2025-07-07 16:27:51.430447+00
+360,The Midnight Watch: A Novel of the Titanic and the Californian,26.20,Books,1,2025-07-07 16:27:51.761782+00,2025-07-07 16:27:51.761782+00
+361,The Lonely City: Adventures in the Art of Being Alone,33.26,Books,2,2025-07-07 16:27:52.060866+00,2025-07-07 16:27:52.060866+00
+362,The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore,59.15,Books,4,2025-07-07 16:27:52.364459+00,2025-07-07 16:27:52.364459+00
+363,The Golden Condom: And Other Essays on Love Lost and Found,39.43,Books,1,2025-07-07 16:27:52.670935+00,2025-07-07 16:27:52.670935+00
+364,The Epidemic (The Program 0.6),14.44,Books,5,2025-07-07 16:27:52.965266+00,2025-07-07 16:27:52.965266+00
+365,The Dinner Party,56.54,Books,2,2025-07-07 16:27:53.259336+00,2025-07-07 16:27:53.259336+00
+366,The Diary of a Young Girl,59.90,Books,3,2025-07-07 16:27:53.570571+00,2025-07-07 16:27:53.570571+00
+367,The Children,11.88,Books,3,2025-07-07 16:27:53.886432+00,2025-07-07 16:27:53.886432+00
+368,Stars Above (The Lunar Chronicles #4.5),48.05,Books,2,2025-07-07 16:27:54.191102+00,2025-07-07 16:27:54.191102+00
+369,Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas,21.21,Books,3,2025-07-07 16:27:54.490773+00,2025-07-07 16:27:54.490773+00
+370,Raspberry Pi Electronics Projects for the Evil Genius,49.67,Books,4,2025-07-07 16:27:54.797208+00,2025-07-07 16:27:54.797208+00
+371,Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,43.14,Books,1,2025-07-07 16:27:55.094151+00,2025-07-07 16:27:55.094151+00
+372,Psycho: Sanitarium (Psycho #1.5),36.97,Books,5,2025-07-07 16:27:55.383701+00,2025-07-07 16:27:55.383701+00
+373,Poisonous (Max Revere Novels #3),26.80,Books,3,2025-07-07 16:27:55.677661+00,2025-07-07 16:27:55.677661+00
+374,One with You (Crossfire #5),15.71,Books,4,2025-07-07 16:27:55.986418+00,2025-07-07 16:27:55.986418+00
+375,No Love Allowed (Dodge Cove #1),54.65,Books,4,2025-07-07 16:27:56.288742+00,2025-07-07 16:27:56.288742+00
+376,Murder at the 42nd Street Library (Raymond Ambler #1),54.36,Books,4,2025-07-07 16:27:56.586933+00,2025-07-07 16:27:56.586933+00
+377,Most Wanted,35.28,Books,3,2025-07-07 16:27:56.894736+00,2025-07-07 16:27:56.894736+00
+378,"Love, Lies and Spies",20.55,Books,2,2025-07-07 16:27:57.184156+00,2025-07-07 16:27:57.184156+00
+379,How to Speak Golf: An Illustrated Guide to Links Lingo,58.32,Books,5,2025-07-07 16:27:57.477851+00,2025-07-07 16:27:57.477851+00
+380,Hide Away (Eve Duncan #20),11.84,Books,1,2025-07-07 16:27:57.781346+00,2025-07-07 16:27:57.781346+00
+381,Furiously Happy: A Funny Book About Horrible Things,41.46,Books,4,2025-07-07 16:27:58.07432+00,2025-07-07 16:27:58.07432+00
+382,Everyday Italian: 125 Simple and Delicious Recipes,20.10,Books,5,2025-07-07 16:27:58.370507+00,2025-07-07 16:27:58.370507+00
+383,Equal Is Unfair: America's Misguided Fight Against Income Inequality,56.86,Books,1,2025-07-07 16:27:58.660502+00,2025-07-07 16:27:58.660502+00
+384,Eleanor & Park,56.51,Books,5,2025-07-07 16:27:58.945872+00,2025-07-07 16:27:58.945872+00
+385,Dirty (Dive Bar #1),40.83,Books,4,2025-07-07 16:27:59.263576+00,2025-07-07 16:27:59.263576+00
+386,Can You Keep a Secret? (Fear Street Relaunch #4),48.64,Books,1,2025-07-07 16:27:59.557332+00,2025-07-07 16:27:59.557332+00
+387,Boar Island (Anna Pigeon #19),59.48,Books,3,2025-07-07 16:27:59.877811+00,2025-07-07 16:27:59.877811+00
+388,A Paris Apartment,39.01,Books,4,2025-07-07 16:28:00.190216+00,2025-07-07 16:28:00.190216+00
+389,"A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",38.77,Books,1,2025-07-07 16:28:00.482483+00,2025-07-07 16:28:00.482483+00
+390,Troublemaker: Surviving Hollywood and Scientology,48.39,Books,2,2025-07-07 16:28:00.801595+00,2025-07-07 16:28:00.801595+00
+391,The Widow,27.26,Books,2,2025-07-07 16:28:01.104666+00,2025-07-07 16:28:01.104666+00
+392,"The Sleep Revolution: Transforming Your Life, One Night at a Time",11.68,Books,4,2025-07-07 16:28:01.396601+00,2025-07-07 16:28:01.396601+00
+393,The Improbability of Love,59.45,Books,1,2025-07-07 16:28:01.699601+00,2025-07-07 16:28:01.699601+00
+394,The Art of Startup Fundraising,21.00,Books,3,2025-07-07 16:28:02.012598+00,2025-07-07 16:28:02.012598+00
+395,Take Me Home Tonight (Rock Star Romance #3),53.98,Books,3,2025-07-07 16:28:02.311228+00,2025-07-07 16:28:02.311228+00
+396,Sleeping Giants (Themis Files #1),48.74,Books,1,2025-07-07 16:28:02.602683+00,2025-07-07 16:28:02.602683+00
+397,"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",21.15,Books,2,2025-07-07 16:28:02.904678+00,2025-07-07 16:28:02.904678+00
+398,Playing with Fire,13.71,Books,3,2025-07-07 16:28:03.216152+00,2025-07-07 16:28:03.216152+00
+399,Off the Hook (Fishing for Trouble #1),47.67,Books,3,2025-07-07 16:28:03.511202+00,2025-07-07 16:28:03.511202+00
+400,Mothering Sunday,13.34,Books,2,2025-07-07 16:28:03.810352+00,2025-07-07 16:28:03.810352+00
+401,"Mother, Can You Not?",16.89,Books,5,2025-07-07 16:28:04.104266+00,2025-07-07 16:28:04.104266+00
+402,M Train,27.18,Books,1,2025-07-07 16:28:04.397527+00,2025-07-07 16:28:04.397527+00
+403,Lilac Girls,17.28,Books,2,2025-07-07 16:28:04.741008+00,2025-07-07 16:28:04.741008+00
+404,Lies and Other Acts of Love,45.14,Books,1,2025-07-07 16:28:05.03842+00,2025-07-07 16:28:05.03842+00
+405,Lab Girl,40.85,Books,1,2025-07-07 16:28:05.33092+00,2025-07-07 16:28:05.33092+00
+406,Keep Me Posted,20.46,Books,4,2025-07-07 16:28:05.624679+00,2025-07-07 16:28:05.624679+00
+407,It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle,56.27,Books,3,2025-07-07 16:28:05.925985+00,2025-07-07 16:28:05.925985+00
+408,Grey (Fifty Shades #4),48.49,Books,4,2025-07-07 16:28:06.234954+00,2025-07-07 16:28:06.234954+00
+409,"Exit, Pursued by a Bear",51.34,Books,4,2025-07-07 16:28:06.552638+00,2025-07-07 16:28:06.552638+00
+410,Daredevils,16.34,Books,3,2025-07-07 16:28:06.858973+00,2025-07-07 16:28:06.858973+00
+411,Cravings: Recipes for What You Want to Eat,20.50,Books,3,2025-07-07 16:28:07.179732+00,2025-07-07 16:28:07.179732+00
+412,Born for This: How to Find the Work You Were Meant to Do,21.59,Books,5,2025-07-07 16:28:07.483029+00,2025-07-07 16:28:07.483029+00
+413,Arena,21.36,Books,4,2025-07-07 16:28:07.775328+00,2025-07-07 16:28:07.775328+00
+414,Adultery,20.88,Books,5,2025-07-07 16:28:08.083825+00,2025-07-07 16:28:08.083825+00
+415,A Mother's Reckoning: Living in the Aftermath of Tragedy,19.53,Books,3,2025-07-07 16:28:08.379928+00,2025-07-07 16:28:08.379928+00
+416,A Gentleman's Position (Society of Gentlemen #3),14.75,Books,5,2025-07-07 16:28:08.678071+00,2025-07-07 16:28:08.678071+00
+417,11/22/63,48.48,Books,3,2025-07-07 16:28:08.991144+00,2025-07-07 16:28:08.991144+00
+418,"10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",24.57,Books,2,2025-07-07 16:28:09.332445+00,2025-07-07 16:28:09.332445+00
+419,10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,49.71,Books,5,2025-07-07 16:28:09.663429+00,2025-07-07 16:28:09.663429+00
+420,Without Shame,48.27,Books,5,2025-07-07 16:28:09.978294+00,2025-07-07 16:28:09.978294+00
+421,Watchmen,58.05,Books,4,2025-07-07 16:28:10.30575+00,2025-07-07 16:28:10.30575+00
+422,Unlimited Intuition Now,58.87,Books,4,2025-07-07 16:28:10.619516+00,2025-07-07 16:28:10.619516+00
+423,Underlying Notes,11.82,Books,2,2025-07-07 16:28:10.930273+00,2025-07-07 16:28:10.930273+00
+424,The Shack,28.03,Books,1,2025-07-07 16:28:11.228214+00,2025-07-07 16:28:11.228214+00
+425,The New Brand You: Your New Image Makes the Sale for You,44.05,Books,5,2025-07-07 16:28:11.536817+00,2025-07-07 16:28:11.536817+00
+426,"The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",12.34,Books,4,2025-07-07 16:28:11.827216+00,2025-07-07 16:28:11.827216+00
+427,The Flowers Lied,16.68,Books,2,2025-07-07 16:28:12.133866+00,2025-07-07 16:28:12.133866+00
+428,"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",55.91,Books,1,2025-07-07 16:28:12.430014+00,2025-07-07 16:28:12.430014+00
+429,The Book of Mormon,24.57,Books,3,2025-07-07 16:28:12.730957+00,2025-07-07 16:28:12.730957+00
+430,The Art and Science of Low Carbohydrate Living,52.98,Books,5,2025-07-07 16:28:13.019501+00,2025-07-07 16:28:13.019501+00
+431,The Alien Club,54.40,Books,1,2025-07-07 16:28:13.328582+00,2025-07-07 16:28:13.328582+00
+432,Suzie Snowflake: One beautiful flake (a self-esteem story),54.81,Books,5,2025-07-07 16:28:13.654908+00,2025-07-07 16:28:13.654908+00
+433,Nap-a-Roo,25.08,Books,1,2025-07-07 16:28:13.955317+00,2025-07-07 16:28:13.955317+00
+434,"NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond",10.41,Books,4,2025-07-07 16:28:14.259074+00,2025-07-07 16:28:14.259074+00
+435,Modern Day Fables,47.44,Books,2,2025-07-07 16:28:14.579727+00,2025-07-07 16:28:14.579727+00
+436,If I Gave You God's Phone Number....: Searching for Spirituality in America,20.91,Books,1,2025-07-07 16:28:14.881192+00,2025-07-07 16:28:14.881192+00
+437,"Fruits Basket, Vol. 9 (Fruits Basket #9)",33.95,Books,4,2025-07-07 16:28:15.173333+00,2025-07-07 16:28:15.173333+00
+438,Dress Your Family in Corduroy and Denim,43.68,Books,3,2025-07-07 16:28:15.471151+00,2025-07-07 16:28:15.471151+00
+439,Don't Forget Steven,33.23,Books,1,2025-07-07 16:28:15.767965+00,2025-07-07 16:28:15.767965+00
+440,Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster,35.92,Books,2,2025-07-07 16:28:16.078793+00,2025-07-07 16:28:16.078793+00
+441,Art and Fear: Observations on the Perils (and Rewards) of Artmaking,48.63,Books,4,2025-07-07 16:28:16.371998+00,2025-07-07 16:28:16.371998+00
+442,A Shard of Ice (The Black Symphony Saga #1),56.63,Books,3,2025-07-07 16:28:16.672072+00,2025-07-07 16:28:16.672072+00
+443,A Hero's Curse (The Unseen Chronicles #1),50.49,Books,3,2025-07-07 16:28:17.001724+00,2025-07-07 16:28:17.001724+00
+444,23 Degrees South: A Tropical Tale of Changing Whether...,35.79,Books,2,2025-07-07 16:28:17.296458+00,2025-07-07 16:28:17.296458+00
+445,"Zero to One: Notes on Startups, or How to Build the Future",34.06,Books,3,2025-07-07 16:28:17.586261+00,2025-07-07 16:28:17.586261+00
+446,Why Not Me?,17.76,Books,1,2025-07-07 16:28:17.900662+00,2025-07-07 16:28:17.900662+00
+447,When Breath Becomes Air,39.36,Books,2,2025-07-07 16:28:18.199619+00,2025-07-07 16:28:18.199619+00
+448,Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,36.94,Books,2,2025-07-07 16:28:18.497519+00,2025-07-07 16:28:18.497519+00
+449,The Unlikely Pilgrimage of Harold Fry (Harold Fry #1),43.62,Books,5,2025-07-07 16:28:18.792758+00,2025-07-07 16:28:18.792758+00
+450,The New Drawing on the Right Side of the Brain,43.02,Books,3,2025-07-07 16:28:19.102456+00,2025-07-07 16:28:19.102456+00
+451,"The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer",28.45,Books,4,2025-07-07 16:28:19.397393+00,2025-07-07 16:28:19.397393+00
+452,The Martian (The Martian #1),41.39,Books,2,2025-07-07 16:28:19.695657+00,2025-07-07 16:28:19.695657+00
+453,The High Mountains of Portugal,51.15,Books,1,2025-07-07 16:28:20.009678+00,2025-07-07 16:28:20.009678+00
+454,The Grownup,35.88,Books,1,2025-07-07 16:28:20.304202+00,2025-07-07 16:28:20.304202+00
+455,The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,36.91,Books,1,2025-07-07 16:28:20.605218+00,2025-07-07 16:28:20.605218+00
+456,South of Sunshine,28.93,Books,1,2025-07-07 16:28:20.922476+00,2025-07-07 16:28:20.922476+00
+457,Smarter Faster Better: The Secrets of Being Productive in Life and Business,38.89,Books,5,2025-07-07 16:28:21.221272+00,2025-07-07 16:28:21.221272+00
+458,Silence in the Dark (Logan Point #4),58.33,Books,3,2025-07-07 16:28:21.538332+00,2025-07-07 16:28:21.538332+00
+459,Shadows of the Past (Logan Point #1),39.67,Books,5,2025-07-07 16:28:21.840905+00,2025-07-07 16:28:21.840905+00
+460,Roller Girl,14.10,Books,5,2025-07-07 16:28:22.1363+00,2025-07-07 16:28:22.1363+00
+461,Rising Strong,21.82,Books,3,2025-07-07 16:28:22.442156+00,2025-07-07 16:28:22.442156+00
+462,Proofs of God: Classical Arguments from Tertullian to Barth,54.21,Books,1,2025-07-07 16:28:22.735648+00,2025-07-07 16:28:22.735648+00
+463,Please Kill Me: The Uncensored Oral History of Punk,31.19,Books,4,2025-07-07 16:28:23.03016+00,2025-07-07 16:28:23.03016+00
+464,Out of Print: City Lights Spotlight No. 14,53.64,Books,5,2025-07-07 16:28:23.344283+00,2025-07-07 16:28:23.344283+00
+465,My Life Next Door (My Life Next Door ),36.39,Books,5,2025-07-07 16:28:23.650476+00,2025-07-07 16:28:23.650476+00
+466,Miller's Valley,58.54,Books,2,2025-07-07 16:28:23.988579+00,2025-07-07 16:28:23.988579+00
+467,Man's Search for Meaning,29.48,Books,3,2025-07-07 16:28:24.326681+00,2025-07-07 16:28:24.326681+00
+468,"Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations",25.06,Books,2,2025-07-07 16:28:24.643149+00,2025-07-07 16:28:24.643149+00
+469,Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want,12.55,Books,3,2025-07-07 16:28:24.941103+00,2025-07-07 16:28:24.941103+00
+470,Les Fleurs du Mal,29.04,Books,5,2025-07-07 16:28:25.243646+00,2025-07-07 16:28:25.243646+00
+471,Left Behind (Left Behind #1),40.72,Books,2,2025-07-07 16:28:25.542217+00,2025-07-07 16:28:25.542217+00
+472,Kill 'Em and Leave: Searching for James Brown and the American Soul,45.05,Books,5,2025-07-07 16:28:25.839863+00,2025-07-07 16:28:25.839863+00
+473,Kierkegaard: A Christian Missionary to Christians,47.13,Books,1,2025-07-07 16:28:26.142336+00,2025-07-07 16:28:26.142336+00
+474,John Vassos: Industrial Design for Modern Life,20.22,Books,4,2025-07-07 16:28:26.434498+00,2025-07-07 16:28:26.434498+00
+475,I'll Give You the Sun,56.48,Books,1,2025-07-07 16:28:26.735606+00,2025-07-07 16:28:26.735606+00
+476,I Will Find You,44.21,Books,1,2025-07-07 16:28:27.059887+00,2025-07-07 16:28:27.059887+00
+477,Hystopia: A Novel,21.96,Books,4,2025-07-07 16:28:27.353087+00,2025-07-07 16:28:27.353087+00
+478,Howl and Other Poems,40.45,Books,2,2025-07-07 16:28:27.663849+00,2025-07-07 16:28:27.663849+00
+479,History of Beauty,10.29,Books,4,2025-07-07 16:28:27.953748+00,2025-07-07 16:28:27.953748+00
+480,Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,52.86,Books,2,2025-07-07 16:28:28.257128+00,2025-07-07 16:28:28.257128+00
+481,Future Shock (Future Shock #1),55.65,Books,5,2025-07-07 16:28:28.551665+00,2025-07-07 16:28:28.551665+00
+482,Ender's Game (The Ender Quintet #1),43.64,Books,1,2025-07-07 16:28:28.862942+00,2025-07-07 16:28:28.862942+00
+483,Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World,28.41,Books,1,2025-07-07 16:28:29.185641+00,2025-07-07 16:28:29.185641+00
+484,Death by Leisure: A Cautionary Tale,37.51,Books,4,2025-07-07 16:28:29.504012+00,2025-07-07 16:28:29.504012+00
+485,Brilliant Beacons: A History of the American Lighthouse,11.45,Books,3,2025-07-07 16:28:29.795733+00,2025-07-07 16:28:29.795733+00
+486,Brazen: The Courage to Find the You That's Been Hiding,19.22,Books,2,2025-07-07 16:28:30.093471+00,2025-07-07 16:28:30.093471+00
+487,Between the World and Me,56.91,Books,4,2025-07-07 16:28:30.42098+00,2025-07-07 16:28:30.42098+00
+488,Being Mortal: Medicine and What Matters in the End,55.06,Books,4,2025-07-07 16:28:30.726707+00,2025-07-07 16:28:30.726707+00
+489,"A Murder Over a Girl: Justice, Gender, Junior High",13.20,Books,3,2025-07-07 16:28:31.025376+00,2025-07-07 16:28:31.025376+00
+490,32 Yolks,53.63,Books,2,2025-07-07 16:28:31.340787+00,2025-07-07 16:28:31.340787+00
+491,"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",44.48,Books,5,2025-07-07 16:28:31.650371+00,2025-07-07 16:28:31.650371+00
+492,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,12.08,Books,3,2025-07-07 16:28:31.960002+00,2025-07-07 16:28:31.960002+00
+493,Wildlife of New York: A Five-Borough Coloring Book,22.14,Books,2,2025-07-07 16:28:32.297528+00,2025-07-07 16:28:32.297528+00
+494,What Happened on Beale Street (Secrets of the South Mysteries #2),25.37,Books,5,2025-07-07 16:28:32.592+00,2025-07-07 16:28:32.592+00
+495,Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain,46.33,Books,2,2025-07-07 16:28:32.914363+00,2025-07-07 16:28:32.914363+00
+496,Under the Tuscan Sun,37.33,Books,3,2025-07-07 16:28:33.241224+00,2025-07-07 16:28:33.241224+00
+497,Toddlers Are A**holes: It's Not Your Fault,25.55,Books,1,2025-07-07 16:28:33.558046+00,2025-07-07 16:28:33.558046+00
+498,The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible,34.72,Books,1,2025-07-07 16:28:33.885793+00,2025-07-07 16:28:33.885793+00
+499,The Whale,35.96,Books,4,2025-07-07 16:28:34.202453+00,2025-07-07 16:28:34.202453+00
+500,The Story of Art,41.14,Books,4,2025-07-07 16:28:34.511163+00,2025-07-07 16:28:34.511163+00
+501,The Origin of Species,10.01,Books,4,2025-07-07 16:28:34.816332+00,2025-07-07 16:28:34.816332+00
+502,The Great Gatsby,36.05,Books,4,2025-07-07 16:28:35.128517+00,2025-07-07 16:28:35.128517+00
+503,The Good Girl,49.03,Books,3,2025-07-07 16:28:35.437003+00,2025-07-07 16:28:35.437003+00
+504,The Glass Castle,16.24,Books,1,2025-07-07 16:28:35.742544+00,2025-07-07 16:28:35.742544+00
+505,The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,39.55,Books,1,2025-07-07 16:28:36.044088+00,2025-07-07 16:28:36.044088+00
+506,The Drowning Girls,35.67,Books,3,2025-07-07 16:28:36.360544+00,2025-07-07 16:28:36.360544+00
+507,The Constant Princess (The Tudor Court #1),16.62,Books,3,2025-07-07 16:28:36.694308+00,2025-07-07 16:28:36.694308+00
+508,The Bourne Identity (Jason Bourne #1),42.78,Books,4,2025-07-07 16:28:37.020564+00,2025-07-07 16:28:37.020564+00
+509,The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),52.30,Books,5,2025-07-07 16:28:37.319412+00,2025-07-07 16:28:37.319412+00
+510,The Art Book,32.34,Books,2,2025-07-07 16:28:37.637092+00,2025-07-07 16:28:37.637092+00
+511,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,33.17,Books,4,2025-07-07 16:28:37.949578+00,2025-07-07 16:28:37.949578+00
+512,Team of Rivals: The Political Genius of Abraham Lincoln,20.12,Books,5,2025-07-07 16:28:38.251004+00,2025-07-07 16:28:38.251004+00
+513,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,20.90,Books,2,2025-07-07 16:28:38.5611+00,2025-07-07 16:28:38.5611+00
+514,"Sit, Stay, Love",20.90,Books,3,2025-07-07 16:28:38.866603+00,2025-07-07 16:28:38.866603+00
+515,Sister Dear,40.20,Books,4,2025-07-07 16:28:39.202026+00,2025-07-07 16:28:39.202026+00
+516,"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",52.87,Books,3,2025-07-07 16:28:39.506632+00,2025-07-07 16:28:39.506632+00
+517,"Rich Dad, Poor Dad",51.74,Books,1,2025-07-07 16:28:39.81075+00,2025-07-07 16:28:39.81075+00
+518,Raymie Nightingale,34.41,Books,2,2025-07-07 16:28:40.120928+00,2025-07-07 16:28:40.120928+00
+519,Playing from the Heart,32.38,Books,1,2025-07-07 16:28:40.427234+00,2025-07-07 16:28:40.427234+00
+520,Nightstruck: A Novel,50.35,Books,4,2025-07-07 16:28:40.731742+00,2025-07-07 16:28:40.731742+00
+521,"Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",11.38,Books,5,2025-07-07 16:28:41.049196+00,2025-07-07 16:28:41.049196+00
+522,Meternity,43.58,Books,3,2025-07-07 16:28:41.351546+00,2025-07-07 16:28:41.351546+00
+523,Memoirs of a Geisha,49.67,Books,3,2025-07-07 16:28:41.652845+00,2025-07-07 16:28:41.652845+00
+524,Like Never Before (Walker Family #2),28.77,Books,2,2025-07-07 16:28:41.968942+00,2025-07-07 16:28:41.968942+00
+525,Life of Pi,13.22,Books,4,2025-07-07 16:28:42.285323+00,2025-07-07 16:28:42.285323+00
+526,Leave This Song Behind: Teen Poetry at Its Best,51.17,Books,5,2025-07-07 16:28:42.592276+00,2025-07-07 16:28:42.592276+00
+527,King's Folly (The Kinsman Chronicles #1),39.61,Books,5,2025-07-07 16:28:42.897849+00,2025-07-07 16:28:42.897849+00
+528,John Adams,57.43,Books,4,2025-07-07 16:28:43.205014+00,2025-07-07 16:28:43.205014+00
+529,How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything),46.01,Books,4,2025-07-07 16:28:43.514406+00,2025-07-07 16:28:43.514406+00
+530,How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking,28.25,Books,2,2025-07-07 16:28:43.82052+00,2025-07-07 16:28:43.82052+00
+531,Good in Bed (Cannie Shapiro #1),37.05,Books,5,2025-07-07 16:28:44.128292+00,2025-07-07 16:28:44.128292+00
+532,"Fruits Basket, Vol. 7 (Fruits Basket #7)",19.57,Books,1,2025-07-07 16:28:44.433491+00,2025-07-07 16:28:44.433491+00
+533,For the Love: Fighting for Grace in a World of Impossible Standards,45.13,Books,3,2025-07-07 16:28:44.752075+00,2025-07-07 16:28:44.752075+00
+534,Finding God in the Ruins: How God Redeems Pain,46.64,Books,2,2025-07-07 16:28:45.082621+00,2025-07-07 16:28:45.082621+00
+535,Every Heart a Doorway (Every Heart A Doorway #1),12.16,Books,5,2025-07-07 16:28:45.39435+00,2025-07-07 16:28:45.39435+00
+536,Delivering the Truth (Quaker Midwife Mystery #1),20.89,Books,4,2025-07-07 16:28:45.727493+00,2025-07-07 16:28:45.727493+00
+537,Counted With the Stars (Out from Egypt #1),17.97,Books,5,2025-07-07 16:28:46.031255+00,2025-07-07 16:28:46.031255+00
+538,"Chronicles, Vol. 1",52.60,Books,2,2025-07-07 16:28:46.33753+00,2025-07-07 16:28:46.33753+00
+539,Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,25.77,Books,1,2025-07-07 16:28:46.643439+00,2025-07-07 16:28:46.643439+00
+540,Benjamin Franklin: An American Life,48.19,Books,3,2025-07-07 16:28:46.965438+00,2025-07-07 16:28:46.965438+00
+541,"At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",29.93,Books,5,2025-07-07 16:28:47.292107+00,2025-07-07 16:28:47.292107+00
+542,A Summer In Europe,44.34,Books,2,2025-07-07 16:28:47.703318+00,2025-07-07 16:28:47.703318+00
+543,A Short History of Nearly Everything,52.40,Books,5,2025-07-07 16:28:48.02313+00,2025-07-07 16:28:48.02313+00
+544,A Gathering of Shadows (Shades of Magic #2),44.81,Books,4,2025-07-07 16:28:48.351115+00,2025-07-07 16:28:48.351115+00
+545,The Sound Of Love,57.84,Books,5,2025-07-07 16:28:48.664929+00,2025-07-07 16:28:48.664929+00
+546,The Rise and Fall of the Third Reich: A History of Nazi Germany,39.67,Books,2,2025-07-07 16:28:48.983706+00,2025-07-07 16:28:48.983706+00
+547,The Perks of Being a Wallflower,55.02,Books,3,2025-07-07 16:28:49.294914+00,2025-07-07 16:28:49.294914+00
+548,The Mysterious Affair at Styles (Hercule Poirot #1),24.80,Books,4,2025-07-07 16:28:49.609521+00,2025-07-07 16:28:49.609521+00
+549,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,59.45,Books,4,2025-07-07 16:28:49.927637+00,2025-07-07 16:28:49.927637+00
+550,The Makings of a Fatherless Child,31.58,Books,2,2025-07-07 16:28:50.237916+00,2025-07-07 16:28:50.237916+00
+551,The Joy of Cooking,43.27,Books,4,2025-07-07 16:28:50.539139+00,2025-07-07 16:28:50.539139+00
+552,The Invention of Wings,37.34,Books,1,2025-07-07 16:28:50.860553+00,2025-07-07 16:28:50.860553+00
+553,The Hobbit (Middle-Earth Universe),17.80,Books,5,2025-07-07 16:28:51.171844+00,2025-07-07 16:28:51.171844+00
+554,The Great Railway Bazaar,30.54,Books,1,2025-07-07 16:28:51.487148+00,2025-07-07 16:28:51.487148+00
+555,The Golden Compass (His Dark Materials #1),18.77,Books,1,2025-07-07 16:28:51.798517+00,2025-07-07 16:28:51.798517+00
+556,The God Delusion,46.85,Books,3,2025-07-07 16:28:52.100589+00,2025-07-07 16:28:52.100589+00
+557,The Girl You Left Behind (The Girl You Left Behind #1),15.79,Books,1,2025-07-07 16:28:52.422204+00,2025-07-07 16:28:52.422204+00
+558,The Fellowship of the Ring (The Lord of the Rings #1),10.27,Books,2,2025-07-07 16:28:52.736278+00,2025-07-07 16:28:52.736278+00
+559,The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1),15.42,Books,5,2025-07-07 16:28:53.043533+00,2025-07-07 16:28:53.043533+00
+560,The Barefoot Contessa Cookbook,59.92,Books,5,2025-07-07 16:28:53.385897+00,2025-07-07 16:28:53.385897+00
+561,Tell the Wolves I'm Home,50.96,Books,2,2025-07-07 16:28:53.700338+00,2025-07-07 16:28:53.700338+00
+562,Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman,30.60,Books,3,2025-07-07 16:28:54.011839+00,2025-07-07 16:28:54.011839+00
+563,Pride and Prejudice,19.27,Books,4,2025-07-07 16:28:54.330613+00,2025-07-07 16:28:54.330613+00
+564,Musicophilia: Tales of Music and the Brain,46.58,Books,1,2025-07-07 16:28:54.645209+00,2025-07-07 16:28:54.645209+00
+565,Mere Christianity,48.51,Books,3,2025-07-07 16:28:55.02417+00,2025-07-07 16:28:55.02417+00
+566,Me Before You (Me Before You #1),19.02,Books,1,2025-07-07 16:28:55.352244+00,2025-07-07 16:28:55.352244+00
+567,In the Woods (Dublin Murder Squad #1),38.38,Books,2,2025-07-07 16:28:55.684867+00,2025-07-07 16:28:55.684867+00
+568,In Cold Blood,49.98,Books,4,2025-07-07 16:28:55.99801+00,2025-07-07 16:28:55.99801+00
+569,How to Stop Worrying and Start Living,46.49,Books,5,2025-07-07 16:28:56.300556+00,2025-07-07 16:28:56.300556+00
+570,Give It Back,18.32,Books,2,2025-07-07 16:28:56.607782+00,2025-07-07 16:28:56.607782+00
+571,"Girl, Interrupted",42.14,Books,3,2025-07-07 16:28:56.915681+00,2025-07-07 16:28:56.915681+00
+572,Fun Home: A Family Tragicomic,56.59,Books,4,2025-07-07 16:28:57.221662+00,2025-07-07 16:28:57.221662+00
+573,"Fruits Basket, Vol. 6 (Fruits Basket #6)",20.96,Books,4,2025-07-07 16:28:57.54227+00,2025-07-07 16:28:57.54227+00
+574,Deception Point,40.32,Books,4,2025-07-07 16:28:57.860308+00,2025-07-07 16:28:57.860308+00
+575,"Death Note, Vol. 6: Give-and-Take (Death Note #6)",36.39,Books,3,2025-07-07 16:28:58.186228+00,2025-07-07 16:28:58.186228+00
+576,Catherine the Great: Portrait of a Woman,58.55,Books,4,2025-07-07 16:28:58.497323+00,2025-07-07 16:28:58.497323+00
+577,Better Homes and Gardens New Cook Book,39.61,Books,3,2025-07-07 16:28:58.852036+00,2025-07-07 16:28:58.852036+00
+578,An Unquiet Mind: A Memoir of Moods and Madness,21.30,Books,3,2025-07-07 16:28:59.15698+00,2025-07-07 16:28:59.15698+00
+579,A Year in Provence (Provence #1),56.88,Books,4,2025-07-07 16:28:59.460988+00,2025-07-07 16:28:59.460988+00
+580,World Without End (The Pillars of the Earth #2),32.97,Books,4,2025-07-07 16:28:59.764854+00,2025-07-07 16:28:59.764854+00
+581,"Will Grayson, Will Grayson (Will Grayson, Will Grayson)",47.31,Books,4,2025-07-07 16:29:00.059798+00,2025-07-07 16:29:00.059798+00
+582,Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis,48.67,Books,2,2025-07-07 16:29:00.378294+00,2025-07-07 16:29:00.378294+00
+583,Where She Went (If I Stay #2),41.73,Books,4,2025-07-07 16:29:00.688472+00,2025-07-07 16:29:00.688472+00
+584,What If?: Serious Scientific Answers to Absurd Hypothetical Questions,53.68,Books,4,2025-07-07 16:29:00.987846+00,2025-07-07 16:29:00.987846+00
+585,Two Summers,14.64,Books,1,2025-07-07 16:29:01.299062+00,2025-07-07 16:29:01.299062+00
+586,This Is Your Brain on Music: The Science of a Human Obsession,38.40,Books,1,2025-07-07 16:29:01.641516+00,2025-07-07 16:29:01.641516+00
+587,The Secret Garden,15.08,Books,4,2025-07-07 16:29:01.950002+00,2025-07-07 16:29:01.950002+00
+588,The Raven King (The Raven Cycle #4),30.57,Books,2,2025-07-07 16:29:02.263923+00,2025-07-07 16:29:02.263923+00
+589,The Raven Boys (The Raven Cycle #1),57.74,Books,4,2025-07-07 16:29:02.568314+00,2025-07-07 16:29:02.568314+00
+590,The Power Greens Cookbook: 140 Delicious Superfood Recipes,11.05,Books,5,2025-07-07 16:29:02.869942+00,2025-07-07 16:29:02.869942+00
+591,The Metamorphosis,28.58,Books,1,2025-07-07 16:29:03.170565+00,2025-07-07 16:29:03.170565+00
+592,The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,42.91,Books,5,2025-07-07 16:29:03.485754+00,2025-07-07 16:29:03.485754+00
+593,The Little Paris Bookshop,24.73,Books,3,2025-07-07 16:29:03.814768+00,2025-07-07 16:29:03.814768+00
+594,The Hiding Place,55.91,Books,4,2025-07-07 16:29:04.126876+00,2025-07-07 16:29:04.126876+00
+595,The Grand Design,13.76,Books,3,2025-07-07 16:29:04.447534+00,2025-07-07 16:29:04.447534+00
+596,The Firm,45.56,Books,3,2025-07-07 16:29:04.755457+00,2025-07-07 16:29:04.755457+00
+597,The Fault in Our Stars,47.22,Books,1,2025-07-07 16:29:05.070245+00,2025-07-07 16:29:05.070245+00
+598,The False Prince (The Ascendance Trilogy #1),56.00,Books,5,2025-07-07 16:29:05.36799+00,2025-07-07 16:29:05.36799+00
+599,The Expatriates,44.58,Books,2,2025-07-07 16:29:05.669953+00,2025-07-07 16:29:05.669953+00
+600,The Dream Thieves (The Raven Cycle #2),34.50,Books,1,2025-07-07 16:29:05.968255+00,2025-07-07 16:29:05.968255+00
+601,The Darkest Corners,11.33,Books,5,2025-07-07 16:29:06.296172+00,2025-07-07 16:29:06.296172+00
+602,The Crossover,38.77,Books,4,2025-07-07 16:29:06.615287+00,2025-07-07 16:29:06.615287+00
+603,The 5th Wave (The 5th Wave #1),11.83,Books,2,2025-07-07 16:29:06.922539+00,2025-07-07 16:29:06.922539+00
+604,Tell the Wind and Fire,45.51,Books,3,2025-07-07 16:29:07.229549+00,2025-07-07 16:29:07.229549+00
+605,Tell Me Three Things,41.81,Books,1,2025-07-07 16:29:07.530296+00,2025-07-07 16:29:07.530296+00
+606,Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut,25.15,Books,4,2025-07-07 16:29:07.863413+00,2025-07-07 16:29:07.863413+00
+607,Siddhartha,34.22,Books,5,2025-07-07 16:29:08.171336+00,2025-07-07 16:29:08.171336+00
+608,Shiver (The Wolves of Mercy Falls #1),16.23,Books,5,2025-07-07 16:29:08.494464+00,2025-07-07 16:29:08.494464+00
+609,Remember Me?,11.48,Books,3,2025-07-07 16:29:08.806215+00,2025-07-07 16:29:08.806215+00
+610,Red Dragon (Hannibal Lecter #1),23.37,Books,3,2025-07-07 16:29:09.148023+00,2025-07-07 16:29:09.148023+00
+611,Peak: Secrets from the New Science of Expertise,16.28,Books,2,2025-07-07 16:29:09.459797+00,2025-07-07 16:29:09.459797+00
+612,My Mother Was Nuts,31.63,Books,4,2025-07-07 16:29:09.766744+00,2025-07-07 16:29:09.766744+00
+613,Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens,24.91,Books,5,2025-07-07 16:29:10.097398+00,2025-07-07 16:29:10.097398+00
+614,Maybe Something Beautiful: How Art Transformed a Neighborhood,22.54,Books,1,2025-07-07 16:29:10.409141+00,2025-07-07 16:29:10.409141+00
+615,Lola and the Boy Next Door (Anna and the French Kiss #2),23.63,Books,4,2025-07-07 16:29:10.715943+00,2025-07-07 16:29:10.715943+00
+616,Logan Kade (Fallen Crest High #5.5),13.12,Books,2,2025-07-07 16:29:11.033132+00,2025-07-07 16:29:11.033132+00
+617,Last One Home (New Beginnings #1),59.98,Books,3,2025-07-07 16:29:11.331041+00,2025-07-07 16:29:11.331041+00
+618,Killing Floor (Jack Reacher #1),31.49,Books,4,2025-07-07 16:29:11.638026+00,2025-07-07 16:29:11.638026+00
+619,Kill the Boy Band,15.52,Books,5,2025-07-07 16:29:11.945768+00,2025-07-07 16:29:11.945768+00
+620,Isla and the Happily Ever After (Anna and the French Kiss #3),48.13,Books,5,2025-07-07 16:29:12.256139+00,2025-07-07 16:29:12.256139+00
+621,If I Stay (If I Stay #1),38.13,Books,5,2025-07-07 16:29:12.576716+00,2025-07-07 16:29:12.576716+00
+622,I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1),36.55,Books,2,2025-07-07 16:29:12.886266+00,2025-07-07 16:29:12.886266+00
+623,Harry Potter and the Deathly Hallows (Harry Potter #7),23.32,Books,1,2025-07-07 16:29:13.18622+00,2025-07-07 16:29:13.18622+00
+624,"Fruits Basket, Vol. 5 (Fruits Basket #5)",16.33,Books,1,2025-07-07 16:29:13.490138+00,2025-07-07 16:29:13.490138+00
+625,Foundation (Foundation (Publication Order) #1),32.42,Books,1,2025-07-07 16:29:13.806006+00,2025-07-07 16:29:13.806006+00
+626,Fool Me Once,16.96,Books,1,2025-07-07 16:29:14.124997+00,2025-07-07 16:29:14.124997+00
+627,Find Her (Detective D.D. Warren #8),22.37,Books,1,2025-07-07 16:29:14.44018+00,2025-07-07 16:29:14.44018+00
+628,Evicted: Poverty and Profit in the American City,42.27,Books,1,2025-07-07 16:29:14.731272+00,2025-07-07 16:29:14.731272+00
+629,Drama,38.70,Books,2,2025-07-07 16:29:15.05485+00,2025-07-07 16:29:15.05485+00
+630,Dracula the Un-Dead,35.63,Books,5,2025-07-07 16:29:15.358202+00,2025-07-07 16:29:15.358202+00
+631,Digital Fortress,58.00,Books,5,2025-07-07 16:29:15.679854+00,2025-07-07 16:29:15.679854+00
+632,"Death Note, Vol. 5: Whiteout (Death Note #5)",52.41,Books,1,2025-07-07 16:29:15.993335+00,2025-07-07 16:29:15.993335+00
+633,"Data, A Love Story: How I Gamed Online Dating to Meet My Match",32.35,Books,3,2025-07-07 16:29:16.311233+00,2025-07-07 16:29:16.311233+00
+634,Critique of Pure Reason,20.75,Books,1,2025-07-07 16:29:16.615916+00,2025-07-07 16:29:16.615916+00
+635,Booked,17.49,Books,5,2025-07-07 16:29:16.921662+00,2025-07-07 16:29:16.921662+00
+636,"Blue Lily, Lily Blue (The Raven Cycle #3)",34.13,Books,5,2025-07-07 16:29:17.226045+00,2025-07-07 16:29:17.226045+00
+637,Approval Junkie: Adventures in Caring Too Much,58.81,Books,5,2025-07-07 16:29:17.531313+00,2025-07-07 16:29:17.531313+00
+638,An Abundance of Katherines,10.00,Books,5,2025-07-07 16:29:17.839267+00,2025-07-07 16:29:17.839267+00
+639,America's War for the Greater Middle East: A Military History,51.22,Books,2,2025-07-07 16:29:18.143607+00,2025-07-07 16:29:18.143607+00
+640,Alight (The Generations Trilogy #2),58.59,Books,4,2025-07-07 16:29:18.454396+00,2025-07-07 16:29:18.454396+00
+641,A Girl's Guide to Moving On (New Beginnings #2),31.30,Books,1,2025-07-07 16:29:18.770809+00,2025-07-07 16:29:18.770809+00
+642,A Game of Thrones (A Song of Ice and Fire #1),46.42,Books,2,2025-07-07 16:29:19.117775+00,2025-07-07 16:29:19.117775+00
+643,A Feast for Crows (A Song of Ice and Fire #4),17.21,Books,4,2025-07-07 16:29:19.409729+00,2025-07-07 16:29:19.409729+00
+644,A Clash of Kings (A Song of Ice and Fire #2),10.79,Books,3,2025-07-07 16:29:19.724846+00,2025-07-07 16:29:19.724846+00
+645,Vogue Colors A to Z: A Fashion Coloring Book,52.35,Books,4,2025-07-07 16:29:20.027989+00,2025-07-07 16:29:20.027989+00
+646,The Shining (The Shining #1),27.88,Books,3,2025-07-07 16:29:20.350793+00,2025-07-07 16:29:20.350793+00
+647,The Pilgrim's Progress,50.26,Books,2,2025-07-07 16:29:20.670631+00,2025-07-07 16:29:20.670631+00
+648,The Perfect Play (Play by Play #1),59.99,Books,3,2025-07-07 16:29:20.976776+00,2025-07-07 16:29:20.976776+00
+649,The Passion of Dolssa,28.32,Books,5,2025-07-07 16:29:21.285187+00,2025-07-07 16:29:21.285187+00
+650,The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe,38.71,Books,3,2025-07-07 16:29:21.60016+00,2025-07-07 16:29:21.60016+00
+651,The Hunger Games (The Hunger Games #1),29.85,Books,5,2025-07-07 16:29:21.91163+00,2025-07-07 16:29:21.91163+00
+652,The Hound of the Baskervilles (Sherlock Holmes #5),14.82,Books,2,2025-07-07 16:29:22.203431+00,2025-07-07 16:29:22.203431+00
+653,The Gunning of America: Business and the Making of American Gun Culture,16.81,Books,4,2025-07-07 16:29:22.509615+00,2025-07-07 16:29:22.509615+00
+654,The Geography of Bliss: One Grump's Search for the Happiest Places in the World,28.23,Books,2,2025-07-07 16:29:22.804167+00,2025-07-07 16:29:22.804167+00
+655,The Demonists (Demonist #1),52.11,Books,2,2025-07-07 16:29:23.129559+00,2025-07-07 16:29:23.129559+00
+656,"The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)",27.88,Books,2,2025-07-07 16:29:23.44936+00,2025-07-07 16:29:23.44936+00
+657,The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),59.71,Books,3,2025-07-07 16:29:23.77066+00,2025-07-07 16:29:23.77066+00
+658,The Beast (Black Dagger Brotherhood #14),46.08,Books,5,2025-07-07 16:29:24.064284+00,2025-07-07 16:29:24.064284+00
+659,Some Women,13.73,Books,5,2025-07-07 16:29:24.373869+00,2025-07-07 16:29:24.373869+00
+660,Shopaholic Ties the Knot (Shopaholic #3),48.39,Books,5,2025-07-07 16:29:24.679699+00,2025-07-07 16:29:24.679699+00
+661,Paper and Fire (The Great Library #2),49.45,Books,5,2025-07-07 16:29:24.981588+00,2025-07-07 16:29:24.981588+00
+662,Outlander (Outlander #1),19.67,Books,5,2025-07-07 16:29:25.367067+00,2025-07-07 16:29:25.367067+00
+663,"Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",12.36,Books,3,2025-07-07 16:29:25.677059+00,2025-07-07 16:29:25.677059+00
+664,No One Here Gets Out Alive,20.02,Books,5,2025-07-07 16:29:25.999247+00,2025-07-07 16:29:25.999247+00
+665,Night Shift (Night Shift #1-20),12.75,Books,4,2025-07-07 16:29:26.30104+00,2025-07-07 16:29:26.30104+00
+666,Needful Things,47.51,Books,4,2025-07-07 16:29:26.613073+00,2025-07-07 16:29:26.613073+00
+667,Mockingjay (The Hunger Games #3),20.44,Books,4,2025-07-07 16:29:26.930888+00,2025-07-07 16:29:26.930888+00
+668,Misery,34.79,Books,2,2025-07-07 16:29:27.246179+00,2025-07-07 16:29:27.246179+00
+669,Little Women (Little Women #1),28.07,Books,4,2025-07-07 16:29:27.562225+00,2025-07-07 16:29:27.562225+00
+670,It,25.01,Books,3,2025-07-07 16:29:27.905318+00,2025-07-07 16:29:27.905318+00
+671,Harry Potter and the Sorcerer's Stone (Harry Potter #1),13.90,Books,3,2025-07-07 16:29:28.200232+00,2025-07-07 16:29:28.200232+00
+672,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),24.17,Books,4,2025-07-07 16:29:28.495236+00,2025-07-07 16:29:28.495236+00
+673,Harry Potter and the Order of the Phoenix (Harry Potter #5),31.63,Books,4,2025-07-07 16:29:28.796795+00,2025-07-07 16:29:28.796795+00
+674,Harry Potter and the Half-Blood Prince (Harry Potter #6),48.75,Books,5,2025-07-07 16:29:29.119706+00,2025-07-07 16:29:29.119706+00
+675,Harry Potter and the Chamber of Secrets (Harry Potter #2),14.74,Books,1,2025-07-07 16:29:29.413894+00,2025-07-07 16:29:29.413894+00
+676,Gone with the Wind,32.49,Books,3,2025-07-07 16:29:29.712391+00,2025-07-07 16:29:29.712391+00
+677,God Is Not Great: How Religion Poisons Everything,27.80,Books,1,2025-07-07 16:29:30.010683+00,2025-07-07 16:29:30.010683+00
+678,Girl With a Pearl Earring,26.77,Books,1,2025-07-07 16:29:30.306124+00,2025-07-07 16:29:30.306124+00
+679,"Fruits Basket, Vol. 4 (Fruits Basket #4)",50.44,Books,4,2025-07-07 16:29:30.610074+00,2025-07-07 16:29:30.610074+00
+680,Far From True (Promise Falls Trilogy #2),34.93,Books,2,2025-07-07 16:29:30.918178+00,2025-07-07 16:29:30.918178+00
+681,Dark Lover (Black Dagger Brotherhood #1),12.87,Books,1,2025-07-07 16:29:31.216604+00,2025-07-07 16:29:31.216604+00
+682,Confessions of a Shopaholic (Shopaholic #1),48.94,Books,2,2025-07-07 16:29:31.528212+00,2025-07-07 16:29:31.528212+00
+683,Changing the Game (Play by Play #2),13.38,Books,3,2025-07-07 16:29:31.824961+00,2025-07-07 16:29:31.824961+00
+684,Candide,58.63,Books,3,2025-07-07 16:29:32.129444+00,2025-07-07 16:29:32.129444+00
+685,Can You Keep a Secret?,21.94,Books,1,2025-07-07 16:29:32.442187+00,2025-07-07 16:29:32.442187+00
+686,Atlas Shrugged,26.58,Books,5,2025-07-07 16:29:32.734123+00,2025-07-07 16:29:32.734123+00
+687,Animal Farm,57.22,Books,3,2025-07-07 16:29:33.028642+00,2025-07-07 16:29:33.028642+00
+688,A Walk to Remember,56.43,Books,1,2025-07-07 16:29:33.327108+00,2025-07-07 16:29:33.327108+00
+689,A New Earth: Awakening to Your Life's Purpose,55.65,Books,5,2025-07-07 16:29:33.625834+00,2025-07-07 16:29:33.625834+00
+690,"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",27.62,Books,1,2025-07-07 16:29:33.926444+00,2025-07-07 16:29:33.926444+00
+691,'Salem's Lot,49.56,Books,4,2025-07-07 16:29:34.216494+00,2025-07-07 16:29:34.216494+00
+692,Zero History (Blue Ant #3),34.77,Books,1,2025-07-07 16:29:34.509236+00,2025-07-07 16:29:34.509236+00
+693,Wuthering Heights,17.73,Books,3,2025-07-07 16:29:34.826733+00,2025-07-07 16:29:34.826733+00
+694,World War Z: An Oral History of the Zombie War,21.80,Books,1,2025-07-07 16:29:35.129868+00,2025-07-07 16:29:35.129868+00
+695,Wild: From Lost to Found on the Pacific Crest Trail,46.02,Books,3,2025-07-07 16:29:35.421569+00,2025-07-07 16:29:35.421569+00
+696,"Where'd You Go, Bernadette",18.13,Books,1,2025-07-07 16:29:35.737272+00,2025-07-07 16:29:35.737272+00
+697,When You Are Engulfed in Flames,30.89,Books,5,2025-07-07 16:29:36.031548+00,2025-07-07 16:29:36.031548+00
+698,We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America,31.95,Books,3,2025-07-07 16:29:36.331452+00,2025-07-07 16:29:36.331452+00
+699,We Are All Completely Beside Ourselves,24.04,Books,1,2025-07-07 16:29:36.629809+00,2025-07-07 16:29:36.629809+00
+700,Walk the Edge (Thunder Road #2),32.36,Books,3,2025-07-07 16:29:36.943313+00,2025-07-07 16:29:36.943313+00
+701,Voyager (Outlander #3),21.07,Books,5,2025-07-07 16:29:37.253351+00,2025-07-07 16:29:37.253351+00
+702,Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination,50.66,Books,3,2025-07-07 16:29:37.588619+00,2025-07-07 16:29:37.588619+00
+703,Vegan Vegetarian Omnivore: Dinner for Everyone at the Table,13.66,Books,2,2025-07-07 16:29:37.88897+00,2025-07-07 16:29:37.88897+00
+704,"Unstuffed: Decluttering Your Home, Mind, and Soul",58.09,Books,1,2025-07-07 16:29:38.188503+00,2025-07-07 16:29:38.188503+00
+705,Under the Banner of Heaven: A Story of Violent Faith,30.00,Books,1,2025-07-07 16:29:38.510156+00,2025-07-07 16:29:38.510156+00
+706,Two Boys Kissing,32.74,Books,2,2025-07-07 16:29:38.836192+00,2025-07-07 16:29:38.836192+00
+707,Twilight (Twilight #1),41.93,Books,2,2025-07-07 16:29:39.142394+00,2025-07-07 16:29:39.142394+00
+708,Twenties Girl,42.80,Books,2,2025-07-07 16:29:39.483648+00,2025-07-07 16:29:39.483648+00
+709,"Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland",53.51,Books,1,2025-07-07 16:29:39.878485+00,2025-07-07 16:29:39.878485+00
+710,Three-Martini Lunch,23.21,Books,3,2025-07-07 16:29:40.173364+00,2025-07-07 16:29:40.173364+00
+711,"Thinking, Fast and Slow",21.14,Books,1,2025-07-07 16:29:40.469407+00,2025-07-07 16:29:40.469407+00
+712,The Wild Robot,56.07,Books,3,2025-07-07 16:29:40.78601+00,2025-07-07 16:29:40.78601+00
+713,"The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)",14.41,Books,3,2025-07-07 16:29:41.09493+00,2025-07-07 16:29:41.09493+00
+714,The Undomestic Goddess,45.75,Books,4,2025-07-07 16:29:41.402197+00,2025-07-07 16:29:41.402197+00
+715,The Travelers,15.77,Books,1,2025-07-07 16:29:41.695774+00,2025-07-07 16:29:41.695774+00
+716,The Tipping Point: How Little Things Can Make a Big Difference,10.02,Books,2,2025-07-07 16:29:41.992151+00,2025-07-07 16:29:41.992151+00
+717,The Thing About Jellyfish,48.77,Books,1,2025-07-07 16:29:42.297023+00,2025-07-07 16:29:42.297023+00
+718,The Stand,57.86,Books,2,2025-07-07 16:29:42.588189+00,2025-07-07 16:29:42.588189+00
+719,The Smitten Kitchen Cookbook,23.59,Books,1,2025-07-07 16:29:42.888142+00,2025-07-07 16:29:42.888142+00
+720,The Silkworm (Cormoran Strike #2),23.05,Books,5,2025-07-07 16:29:43.170736+00,2025-07-07 16:29:43.170736+00
+721,"The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)",55.55,Books,5,2025-07-07 16:29:43.459382+00,2025-07-07 16:29:43.459382+00
+722,The Rose & the Dagger (The Wrath and the Dawn #2),58.64,Books,4,2025-07-07 16:29:43.772696+00,2025-07-07 16:29:43.772696+00
+723,The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),23.21,Books,1,2025-07-07 16:29:44.070132+00,2025-07-07 16:29:44.070132+00
+724,The Rise of Theodore Roosevelt (Theodore Roosevelt #1),42.57,Books,3,2025-07-07 16:29:44.426235+00,2025-07-07 16:29:44.426235+00
+725,The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),10.92,Books,1,2025-07-07 16:29:44.720957+00,2025-07-07 16:29:44.720957+00
+726,The Rest Is Noise: Listening to the Twentieth Century,34.77,Books,1,2025-07-07 16:29:45.017094+00,2025-07-07 16:29:45.017094+00
+727,The Red Tent,35.66,Books,5,2025-07-07 16:29:45.304431+00,2025-07-07 16:29:45.304431+00
+728,The Purpose Driven Life: What on Earth Am I Here for?,37.19,Books,3,2025-07-07 16:29:45.596753+00,2025-07-07 16:29:45.596753+00
+729,The Purest Hook (Second Circle Tattoos #3),12.25,Books,1,2025-07-07 16:29:45.896663+00,2025-07-07 16:29:45.896663+00
+730,The Picture of Dorian Gray,29.70,Books,2,2025-07-07 16:29:46.203582+00,2025-07-07 16:29:46.203582+00
+731,The Paris Wife,36.80,Books,3,2025-07-07 16:29:46.508878+00,2025-07-07 16:29:46.508878+00
+732,The Obsession,45.43,Books,1,2025-07-07 16:29:46.806348+00,2025-07-07 16:29:46.806348+00
+733,The Nightingale,26.26,Books,4,2025-07-07 16:29:47.103447+00,2025-07-07 16:29:47.103447+00
+734,The New Guy (and Other Senior Year Distractions),44.92,Books,3,2025-07-07 16:29:47.407638+00,2025-07-07 16:29:47.407638+00
+735,The Nanny Diaries (Nanny #1),52.53,Books,5,2025-07-07 16:29:47.699575+00,2025-07-07 16:29:47.699575+00
+736,The Name of God is Mercy,37.25,Books,2,2025-07-07 16:29:48.0108+00,2025-07-07 16:29:48.0108+00
+737,The Maze Runner (The Maze Runner #1),20.93,Books,1,2025-07-07 16:29:48.317196+00,2025-07-07 16:29:48.317196+00
+738,The Lover's Dictionary,58.09,Books,2,2025-07-07 16:29:48.619357+00,2025-07-07 16:29:48.619357+00
+739,The Lonely Ones,43.59,Books,5,2025-07-07 16:29:48.907988+00,2025-07-07 16:29:48.907988+00
+740,The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,33.92,Books,3,2025-07-07 16:29:49.213022+00,2025-07-07 16:29:49.213022+00
+741,The Last Painting of Sara de Vos,55.55,Books,2,2025-07-07 16:29:49.511713+00,2025-07-07 16:29:49.511713+00
+742,"The Land of 10,000 Madonnas",29.64,Books,4,2025-07-07 16:29:49.805805+00,2025-07-07 16:29:49.805805+00
+743,The Infinities,27.41,Books,1,2025-07-07 16:29:50.096766+00,2025-07-07 16:29:50.096766+00
+744,The Husband's Secret,52.51,Books,5,2025-07-07 16:29:50.398944+00,2025-07-07 16:29:50.398944+00
+745,The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1),47.80,Books,3,2025-07-07 16:29:50.701096+00,2025-07-07 16:29:50.701096+00
+746,The Guns of August,14.54,Books,2,2025-07-07 16:29:50.995508+00,2025-07-07 16:29:50.995508+00
+747,The Guernsey Literary and Potato Peel Pie Society,49.53,Books,1,2025-07-07 16:29:51.307789+00,2025-07-07 16:29:51.307789+00
+748,The Goldfinch,43.58,Books,3,2025-07-07 16:29:51.598923+00,2025-07-07 16:29:51.598923+00
+749,The Giver (The Giver Quartet #1),12.30,Books,1,2025-07-07 16:29:51.897433+00,2025-07-07 16:29:51.897433+00
+750,The Girl with All the Gifts,49.47,Books,3,2025-07-07 16:29:52.198896+00,2025-07-07 16:29:52.198896+00
+751,The Girl Who Played with Fire (Millennium Trilogy #2),22.14,Books,2,2025-07-07 16:29:52.50974+00,2025-07-07 16:29:52.50974+00
+752,The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3),57.48,Books,1,2025-07-07 16:29:52.83032+00,2025-07-07 16:29:52.83032+00
+753,The Exiled,43.45,Books,3,2025-07-07 16:29:55.161186+00,2025-07-07 16:29:55.161186+00
+754,"The End of Faith: Religion, Terror, and the Future of Reason",22.13,Books,4,2025-07-07 16:29:55.460597+00,2025-07-07 16:29:55.460597+00
+755,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",13.03,Books,4,2025-07-07 16:29:55.762221+00,2025-07-07 16:29:55.762221+00
+756,"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",57.35,Books,5,2025-07-07 16:29:56.047831+00,2025-07-07 16:29:56.047831+00
+757,The Devil Wears Prada (The Devil Wears Prada #1),44.29,Books,1,2025-07-07 16:29:56.335957+00,2025-07-07 16:29:56.335957+00
+758,The Demon-Haunted World: Science as a Candle in the Dark,52.25,Books,4,2025-07-07 16:29:56.622709+00,2025-07-07 16:29:56.622709+00
+759,The Day the Crayons Came Home (Crayons),26.33,Books,5,2025-07-07 16:29:56.912636+00,2025-07-07 16:29:56.912636+00
+760,The Da Vinci Code (Robert Langdon #2),22.96,Books,2,2025-07-07 16:29:57.226113+00,2025-07-07 16:29:57.226113+00
+761,The Cuckoo's Calling (Cormoran Strike #1),19.21,Books,1,2025-07-07 16:29:57.521779+00,2025-07-07 16:29:57.521779+00
+762,The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),26.78,Books,4,2025-07-07 16:29:57.816985+00,2025-07-07 16:29:57.816985+00
+763,The Complete Poems,41.32,Books,5,2025-07-07 16:29:58.117639+00,2025-07-07 16:29:58.117639+00
+764,The Catcher in the Rye,24.55,Books,1,2025-07-07 16:29:58.396787+00,2025-07-07 16:29:58.396787+00
+765,The Cat in the Hat (Beginner Books B-1),16.26,Books,2,2025-07-07 16:29:58.687876+00,2025-07-07 16:29:58.687876+00
+766,The Case for Christ (Cases for Christianity),47.84,Books,1,2025-07-07 16:29:58.980745+00,2025-07-07 16:29:58.980745+00
+767,The Book Thief,53.49,Books,2,2025-07-07 16:29:59.276787+00,2025-07-07 16:29:59.276787+00
+768,The Book of Basketball: The NBA According to The Sports Guy,44.84,Books,5,2025-07-07 16:29:59.580467+00,2025-07-07 16:29:59.580467+00
+769,The Blind Side: Evolution of a Game,53.71,Books,5,2025-07-07 16:29:59.865514+00,2025-07-07 16:29:59.865514+00
+770,The Autobiography of Malcolm X,23.43,Books,2,2025-07-07 16:30:00.156248+00,2025-07-07 16:30:00.156248+00
+771,"The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",34.32,Books,3,2025-07-07 16:30:00.438917+00,2025-07-07 16:30:00.438917+00
+772,The Art of Fielding,22.10,Books,1,2025-07-07 16:30:00.727577+00,2025-07-07 16:30:00.727577+00
+773,"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",25.83,Books,2,2025-07-07 16:30:01.025481+00,2025-07-07 16:30:01.025481+00
+774,Stiff: The Curious Lives of Human Cadavers,36.74,Books,3,2025-07-07 16:30:01.324453+00,2025-07-07 16:30:01.324453+00
+775,Spilled Milk: Based on a True Story,49.51,Books,1,2025-07-07 16:30:01.600721+00,2025-07-07 16:30:01.600721+00
+776,Something Borrowed (Darcy & Rachel #1),48.96,Books,5,2025-07-07 16:30:01.89428+00,2025-07-07 16:30:01.89428+00
+777,Something Blue (Darcy & Rachel #2),54.62,Books,1,2025-07-07 16:30:02.193657+00,2025-07-07 16:30:02.193657+00
+778,Soldier (Talon #3),24.72,Books,2,2025-07-07 16:30:02.488441+00,2025-07-07 16:30:02.488441+00
+779,Shopaholic & Baby (Shopaholic #5),46.45,Books,2,2025-07-07 16:30:02.794063+00,2025-07-07 16:30:02.794063+00
+780,Seven Days in the Art World,52.33,Books,2,2025-07-07 16:30:03.104433+00,2025-07-07 16:30:03.104433+00
+781,Seven Brief Lessons on Physics,30.60,Books,4,2025-07-07 16:30:03.432275+00,2025-07-07 16:30:03.432275+00
+782,Scarlet (The Lunar Chronicles #2),14.57,Books,4,2025-07-07 16:30:03.733195+00,2025-07-07 16:30:03.733195+00
+783,Sarah's Key,46.29,Books,1,2025-07-07 16:30:04.031389+00,2025-07-07 16:30:04.031389+00
+784,"Saga, Volume 3 (Saga (Collected Editions) #3)",21.57,Books,5,2025-07-07 16:30:04.397271+00,2025-07-07 16:30:04.397271+00
+785,Running with Scissors,12.91,Books,4,2025-07-07 16:30:04.705251+00,2025-07-07 16:30:04.705251+00
+786,Rogue Lawyer (Rogue Lawyer #1),50.11,Books,3,2025-07-07 16:30:05.000556+00,2025-07-07 16:30:05.000556+00
+787,"Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars",41.67,Books,4,2025-07-07 16:30:05.284685+00,2025-07-07 16:30:05.284685+00
+788,Rework,44.88,Books,2,2025-07-07 16:30:05.587702+00,2025-07-07 16:30:05.587702+00
+789,Reservations for Two,11.10,Books,3,2025-07-07 16:30:05.887294+00,2025-07-07 16:30:05.887294+00
+790,Red: The True Story of Red Riding Hood,28.54,Books,3,2025-07-07 16:30:06.205114+00,2025-07-07 16:30:06.205114+00
+791,Ready Player One,19.07,Books,4,2025-07-07 16:30:06.510092+00,2025-07-07 16:30:06.510092+00
+792,Quiet: The Power of Introverts in a World That Can't Stop Talking,43.55,Books,1,2025-07-07 16:30:06.8149+00,2025-07-07 16:30:06.8149+00
+793,Prodigy: The Graphic Novel (Legend: The Graphic Novel #2),43.63,Books,3,2025-07-07 16:30:07.100207+00,2025-07-07 16:30:07.100207+00
+794,Persepolis: The Story of a Childhood (Persepolis #1-2),39.13,Books,1,2025-07-07 16:30:07.408303+00,2025-07-07 16:30:07.408303+00
+795,Packing for Mars: The Curious Science of Life in the Void,56.68,Books,2,2025-07-07 16:30:07.717383+00,2025-07-07 16:30:07.717383+00
+796,Outliers: The Story of Success,14.16,Books,1,2025-07-07 16:30:08.018116+00,2025-07-07 16:30:08.018116+00
+797,Original Fake,31.45,Books,3,2025-07-07 16:30:08.310276+00,2025-07-07 16:30:08.310276+00
+798,Orange Is the New Black,24.61,Books,2,2025-07-07 16:30:08.616455+00,2025-07-07 16:30:08.616455+00
+799,One for the Money (Stephanie Plum #1),32.87,Books,2,2025-07-07 16:30:08.929115+00,2025-07-07 16:30:08.929115+00
+800,Notes from a Small Island (Notes From a Small Island #1),40.17,Books,1,2025-07-07 16:30:09.222929+00,2025-07-07 16:30:09.222929+00
+801,Night (The Night Trilogy #1),13.51,Books,1,2025-07-07 16:30:09.515377+00,2025-07-07 16:30:09.515377+00
+802,Neither Here nor There: Travels in Europe,38.95,Books,3,2025-07-07 16:30:09.840511+00,2025-07-07 16:30:09.840511+00
+803,Naked,31.69,Books,3,2025-07-07 16:30:10.145539+00,2025-07-07 16:30:10.145539+00
+804,Morning Star (Red Rising #3),29.40,Books,1,2025-07-07 16:30:10.446898+00,2025-07-07 16:30:10.446898+00
+805,"Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing",57.83,Books,1,2025-07-07 16:30:10.762106+00,2025-07-07 16:30:10.762106+00
+806,Midnight Riot (Peter Grant/ Rivers of London - books #1),55.46,Books,2,2025-07-07 16:30:11.081078+00,2025-07-07 16:30:11.081078+00
+807,Me Talk Pretty One Day,57.60,Books,2,2025-07-07 16:30:11.520279+00,2025-07-07 16:30:11.520279+00
+808,Manuscript Found in Accra,34.98,Books,2,2025-07-07 16:30:11.822088+00,2025-07-07 16:30:11.822088+00
+809,Lust & Wonder,11.87,Books,2,2025-07-07 16:30:12.132887+00,2025-07-07 16:30:12.132887+00
+810,Lila (Gilead #3),12.47,Books,3,2025-07-07 16:30:12.448759+00,2025-07-07 16:30:12.448759+00
+811,"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",33.26,Books,2,2025-07-07 16:30:12.755771+00,2025-07-07 16:30:12.755771+00
+812,Life Without a Recipe,59.04,Books,5,2025-07-07 16:30:13.06311+00,2025-07-07 16:30:13.06311+00
+813,Life After Life,26.13,Books,2,2025-07-07 16:30:13.371193+00,2025-07-07 16:30:13.371193+00
+814,Letter to a Christian Nation,22.20,Books,1,2025-07-07 16:30:13.666179+00,2025-07-07 16:30:13.666179+00
+815,Let's Pretend This Never Happened: A Mostly True Memoir,45.11,Books,1,2025-07-07 16:30:13.991889+00,2025-07-07 16:30:13.991889+00
+816,Legend (Legend #1),43.69,Books,4,2025-07-07 16:30:14.286305+00,2025-07-07 16:30:14.286305+00
+817,"Lean In: Women, Work, and the Will to Lead",25.02,Books,1,2025-07-07 16:30:14.593941+00,2025-07-07 16:30:14.593941+00
+818,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",55.50,Books,5,2025-07-07 16:30:14.894037+00,2025-07-07 16:30:14.894037+00
+819,Lady Renegades (Rebel Belle #3),53.04,Books,5,2025-07-07 16:30:15.201416+00,2025-07-07 16:30:15.201416+00
+820,Jurassic Park (Jurassic Park #1),44.97,Books,1,2025-07-07 16:30:15.509231+00,2025-07-07 16:30:15.509231+00
+821,It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond,42.38,Books,1,2025-07-07 16:30:15.822286+00,2025-07-07 16:30:15.822286+00
+822,Is Everyone Hanging Out Without Me? (And Other Concerns),20.11,Books,3,2025-07-07 16:30:16.143744+00,2025-07-07 16:30:16.143744+00
+823,Into the Wild,56.70,Books,5,2025-07-07 16:30:16.490534+00,2025-07-07 16:30:16.490534+00
+824,Inferno (Robert Langdon #4),41.00,Books,5,2025-07-07 16:30:16.805564+00,2025-07-07 16:30:16.805564+00
+825,"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",28.85,Books,3,2025-07-07 16:30:17.132685+00,2025-07-07 16:30:17.132685+00
+826,If I Run (If I Run #1),49.97,Books,4,2025-07-07 16:30:17.43123+00,2025-07-07 16:30:17.43123+00
+827,I've Got Your Number,19.69,Books,1,2025-07-07 16:30:17.827772+00,2025-07-07 16:30:17.827772+00
+828,I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban,28.88,Books,2,2025-07-07 16:30:18.126437+00,2025-07-07 16:30:18.126437+00
+829,Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World,33.14,Books,3,2025-07-07 16:30:18.419832+00,2025-07-07 16:30:18.419832+00
+830,"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",43.70,Books,2,2025-07-07 16:30:18.732955+00,2025-07-07 16:30:18.732955+00
+831,House of Leaves,54.89,Books,1,2025-07-07 16:30:19.039249+00,2025-07-07 16:30:19.039249+00
+832,Horrible Bear!,37.52,Books,2,2025-07-07 16:30:19.340939+00,2025-07-07 16:30:19.340939+00
+833,Holidays on Ice,51.07,Books,2,2025-07-07 16:30:19.702888+00,2025-07-07 16:30:19.702888+00
+834,Heir to the Sky,44.07,Books,4,2025-07-07 16:30:20.027057+00,2025-07-07 16:30:20.027057+00
+835,Green Eggs and Ham (Beginner Books B-16),10.79,Books,4,2025-07-07 16:30:20.366393+00,2025-07-07 16:30:20.366393+00
+836,"Grayson, Vol 3: Nemesis (Grayson #3)",42.72,Books,1,2025-07-07 16:30:20.668733+00,2025-07-07 16:30:20.668733+00
+837,Gratitude,26.66,Books,5,2025-07-07 16:30:20.973554+00,2025-07-07 16:30:20.973554+00
+838,Gone Girl,37.60,Books,5,2025-07-07 16:30:21.300714+00,2025-07-07 16:30:21.300714+00
+839,Golden (Heart of Dread #3),42.21,Books,4,2025-07-07 16:30:21.614808+00,2025-07-07 16:30:21.614808+00
+840,Girl in the Blue Coat,46.83,Books,2,2025-07-07 16:30:21.931257+00,2025-07-07 16:30:21.931257+00
+841,"Fruits Basket, Vol. 3 (Fruits Basket #3)",45.17,Books,2,2025-07-07 16:30:22.229509+00,2025-07-07 16:30:22.229509+00
+842,"Friday Night Lights: A Town, a Team, and a Dream",51.22,Books,3,2025-07-07 16:30:22.535091+00,2025-07-07 16:30:22.535091+00
+843,Fire Bound (Sea Haven/Sisters of the Heart #5),21.28,Books,4,2025-07-07 16:30:22.837971+00,2025-07-07 16:30:22.837971+00
+844,Fifty Shades Freed (Fifty Shades #3),15.36,Books,5,2025-07-07 16:30:23.161458+00,2025-07-07 16:30:23.161458+00
+845,Fellside,38.62,Books,1,2025-07-07 16:30:23.467077+00,2025-07-07 16:30:23.467077+00
+846,Extreme Prey (Lucas Davenport #26),25.40,Books,3,2025-07-07 16:30:23.786347+00,2025-07-07 16:30:23.786347+00
+847,Eragon (The Inheritance Cycle #1),43.87,Books,3,2025-07-07 16:30:24.092603+00,2025-07-07 16:30:24.092603+00
+848,Eclipse (Twilight #3),18.74,Books,1,2025-07-07 16:30:24.396441+00,2025-07-07 16:30:24.396441+00
+849,Dune (Dune #1),54.86,Books,1,2025-07-07 16:30:24.690702+00,2025-07-07 16:30:24.690702+00
+850,Dracula,52.62,Books,3,2025-07-07 16:30:24.993295+00,2025-07-07 16:30:24.993295+00
+851,Do Androids Dream of Electric Sheep? (Blade Runner #1),51.48,Books,1,2025-07-07 16:30:25.306852+00,2025-07-07 16:30:25.306852+00
+852,Disrupted: My Misadventure in the Start-Up Bubble,15.28,Books,5,2025-07-07 16:30:25.634078+00,2025-07-07 16:30:25.634078+00
+853,Dead Wake: The Last Crossing of the Lusitania,39.24,Books,5,2025-07-07 16:30:25.946364+00,2025-07-07 16:30:25.946364+00
+854,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",17.81,Books,1,2025-07-07 16:30:26.254243+00,2025-07-07 16:30:26.254243+00
+855,Darkfever (Fever #1),56.02,Books,1,2025-07-07 16:30:26.57374+00,2025-07-07 16:30:26.57374+00
+856,Dark Places,23.90,Books,5,2025-07-07 16:30:26.869203+00,2025-07-07 16:30:26.869203+00
+857,Crazy Rich Asians (Crazy Rich Asians #1),49.13,Books,5,2025-07-07 16:30:27.174543+00,2025-07-07 16:30:27.174543+00
+858,Counting Thyme,10.62,Books,1,2025-07-07 16:30:27.496239+00,2025-07-07 16:30:27.496239+00
+859,Cosmos,36.17,Books,2,2025-07-07 16:30:27.793426+00,2025-07-07 16:30:27.793426+00
+860,Civilization and Its Discontents,59.95,Books,2,2025-07-07 16:30:28.100859+00,2025-07-07 16:30:28.100859+00
+861,Cinder (The Lunar Chronicles #1),26.09,Books,1,2025-07-07 16:30:28.43066+00,2025-07-07 16:30:28.43066+00
+862,Catastrophic Happiness: Finding Joy in Childhood's Messy Years,37.35,Books,2,2025-07-07 16:30:28.723968+00,2025-07-07 16:30:28.723968+00
+863,Career of Evil (Cormoran Strike #3),24.72,Books,2,2025-07-07 16:30:29.038566+00,2025-07-07 16:30:29.038566+00
+864,Breaking Dawn (Twilight #4),35.28,Books,5,2025-07-07 16:30:29.345157+00,2025-07-07 16:30:29.345157+00
+865,Brave Enough,51.32,Books,5,2025-07-07 16:30:29.645689+00,2025-07-07 16:30:29.645689+00
+866,Boy Meets Boy,21.12,Books,3,2025-07-07 16:30:29.946021+00,2025-07-07 16:30:29.946021+00
+867,"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",27.35,Books,2,2025-07-07 16:30:30.252335+00,2025-07-07 16:30:30.252335+00
+868,Blink: The Power of Thinking Without Thinking,21.74,Books,5,2025-07-07 16:30:30.565328+00,2025-07-07 16:30:30.565328+00
+869,Black Flags: The Rise of ISIS,40.87,Books,1,2025-07-07 16:30:30.877872+00,2025-07-07 16:30:30.877872+00
+870,"Black Butler, Vol. 1 (Black Butler #1)",49.31,Books,1,2025-07-07 16:30:31.18369+00,2025-07-07 16:30:31.18369+00
+871,Big Little Lies,22.11,Books,1,2025-07-07 16:30:31.497016+00,2025-07-07 16:30:31.497016+00
+872,Between Shades of Gray,20.79,Books,5,2025-07-07 16:30:31.794232+00,2025-07-07 16:30:31.794232+00
+873,Best of My Love (Fool's Gold #20),27.41,Books,2,2025-07-07 16:30:32.121832+00,2025-07-07 16:30:32.121832+00
+874,Beowulf,38.35,Books,2,2025-07-07 16:30:32.438082+00,2025-07-07 16:30:32.438082+00
+875,Beautiful Creatures (Caster Chronicles #1),21.55,Books,5,2025-07-07 16:30:32.761339+00,2025-07-07 16:30:32.761339+00
+876,Awkward,38.02,Books,2,2025-07-07 16:30:33.072436+00,2025-07-07 16:30:33.072436+00
+877,Ash,22.06,Books,4,2025-07-07 16:30:33.393236+00,2025-07-07 16:30:33.393236+00
+878,Are We There Yet?,10.66,Books,3,2025-07-07 16:30:33.724209+00,2025-07-07 16:30:33.724209+00
+879,Are We Smart Enough to Know How Smart Animals Are?,56.58,Books,1,2025-07-07 16:30:34.066702+00,2025-07-07 16:30:34.066702+00
+880,Annie on My Mind,36.83,Books,5,2025-07-07 16:30:34.37162+00,2025-07-07 16:30:34.37162+00
+881,And Then There Were None,35.01,Books,2,2025-07-07 16:30:34.672817+00,2025-07-07 16:30:34.672817+00
+882,A Walk in the Woods: Rediscovering America on the Appalachian Trail,30.48,Books,4,2025-07-07 16:30:34.971328+00,2025-07-07 16:30:34.971328+00
+883,A Visit from the Goon Squad,14.08,Books,5,2025-07-07 16:30:35.282884+00,2025-07-07 16:30:35.282884+00
+884,A Storm of Swords (A Song of Ice and Fire #3),31.22,Books,2,2025-07-07 16:30:35.580029+00,2025-07-07 16:30:35.580029+00
+885,A Heartbreaking Work of Staggering Genius,54.29,Books,5,2025-07-07 16:30:35.891868+00,2025-07-07 16:30:35.891868+00
+886,8 Keys to Mental Health Through Exercise,31.04,Books,1,2025-07-07 16:30:36.20533+00,2025-07-07 16:30:36.20533+00
+887,#GIRLBOSS,50.96,Books,1,2025-07-07 16:30:36.556021+00,2025-07-07 16:30:36.556021+00
+888,"The Suffragettes (Little Black Classics, #96)",11.89,Books,2,2025-07-07 16:30:36.866488+00,2025-07-07 16:30:36.866488+00
+889,The Sense of an Ending,31.38,Books,3,2025-07-07 16:30:37.273735+00,2025-07-07 16:30:37.273735+00
+890,"The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)",54.81,Books,1,2025-07-07 16:30:37.589708+00,2025-07-07 16:30:37.589708+00
+891,The Course of Love,16.78,Books,3,2025-07-07 16:30:37.891854+00,2025-07-07 16:30:37.891854+00
+892,Sugar Rush (Offensive Line #2),24.42,Books,1,2025-07-07 16:30:38.22786+00,2025-07-07 16:30:38.22786+00
+893,"Saga, Volume 2 (Saga (Collected Editions) #2)",11.75,Books,3,2025-07-07 16:30:38.538376+00,2025-07-07 16:30:38.538376+00
+894,"Run, Spot, Run: The Ethics of Keeping Pets",20.02,Books,1,2025-07-07 16:30:38.863144+00,2025-07-07 16:30:38.863144+00
+895,New Moon (Twilight #2),12.86,Books,4,2025-07-07 16:30:39.166984+00,2025-07-07 16:30:39.166984+00
+896,Life,31.58,Books,5,2025-07-07 16:30:39.50548+00,2025-07-07 16:30:39.50548+00
+897,Kindle Paperwhite User's Guide,34.00,Books,3,2025-07-07 16:30:39.807894+00,2025-07-07 16:30:39.807894+00
+898,H is for Hawk,57.42,Books,5,2025-07-07 16:30:40.108452+00,2025-07-07 16:30:40.108452+00
+899,Girl Online On Tour (Girl Online #2),53.47,Books,1,2025-07-07 16:30:40.413345+00,2025-07-07 16:30:40.413345+00
+900,"Fruits Basket, Vol. 2 (Fruits Basket #2)",11.64,Books,5,2025-07-07 16:30:40.727325+00,2025-07-07 16:30:40.727325+00
+901,Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book),52.88,Books,4,2025-07-07 16:30:41.048608+00,2025-07-07 16:30:41.048608+00
+902,"Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)",18.51,Books,4,2025-07-07 16:30:41.340387+00,2025-07-07 16:30:41.340387+00
+903,While You Were Mine,41.32,Books,5,2025-07-07 16:30:41.655432+00,2025-07-07 16:30:41.655432+00
+904,Where Lightning Strikes (Bleeding Stars #3),39.77,Books,3,2025-07-07 16:30:42.006116+00,2025-07-07 16:30:42.006116+00
+905,When I'm Gone,51.96,Books,3,2025-07-07 16:30:42.314073+00,2025-07-07 16:30:42.314073+00
+906,Ways of Seeing,39.51,Books,5,2025-07-07 16:30:42.620383+00,2025-07-07 16:30:42.620383+00
+907,"Vampire Knight, Vol. 1 (Vampire Knight #1)",15.40,Books,1,2025-07-07 16:30:42.941232+00,2025-07-07 16:30:42.941232+00
+908,Vampire Girl (Vampire Girl #1),53.82,Books,2,2025-07-07 16:30:43.239269+00,2025-07-07 16:30:43.239269+00
+909,Twenty Love Poems and a Song of Despair,30.95,Books,4,2025-07-07 16:30:43.557882+00,2025-07-07 16:30:43.557882+00
+910,Travels with Charley: In Search of America,57.82,Books,5,2025-07-07 16:30:43.898787+00,2025-07-07 16:30:43.898787+00
+911,Three Wishes (River of Time: California #1),44.18,Books,2,2025-07-07 16:30:44.199395+00,2025-07-07 16:30:44.199395+00
+912,This One Moment (Pushing Limits #1),48.71,Books,1,2025-07-07 16:30:44.546786+00,2025-07-07 16:30:44.546786+00
+913,The Zombie Room,19.69,Books,5,2025-07-07 16:30:44.850559+00,2025-07-07 16:30:44.850559+00
+914,"The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)",36.52,Books,2,2025-07-07 16:30:45.160124+00,2025-07-07 16:30:45.160124+00
+915,The Tumor,41.56,Books,5,2025-07-07 16:30:45.519629+00,2025-07-07 16:30:45.519629+00
+916,The Story of Hong Gildong,43.19,Books,4,2025-07-07 16:30:45.814474+00,2025-07-07 16:30:45.814474+00
+917,The Silent Wife,12.34,Books,5,2025-07-07 16:30:46.175165+00,2025-07-07 16:30:46.175165+00
+918,The Silent Twin (Detective Jennifer Knight #3),36.25,Books,3,2025-07-07 16:30:46.496924+00,2025-07-07 16:30:46.496924+00
+919,The Selfish Gene,29.45,Books,1,2025-07-07 16:30:46.794912+00,2025-07-07 16:30:46.794912+00
+920,The Secret Healer,34.56,Books,3,2025-07-07 16:30:47.121682+00,2025-07-07 16:30:47.121682+00
+921,"The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)",54.12,Books,3,2025-07-07 16:30:47.442821+00,2025-07-07 16:30:47.442821+00
+922,The Republic,33.78,Books,3,2025-07-07 16:30:47.73518+00,2025-07-07 16:30:47.73518+00
+923,The Odyssey,29.64,Books,3,2025-07-07 16:30:48.039175+00,2025-07-07 16:30:48.039175+00
+924,The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1),57.70,Books,4,2025-07-07 16:30:48.337318+00,2025-07-07 16:30:48.337318+00
+925,The Nicomachean Ethics,36.34,Books,1,2025-07-07 16:30:48.642648+00,2025-07-07 16:30:48.642648+00
+926,The Name of the Wind (The Kingkiller Chronicle #1),50.59,Books,3,2025-07-07 16:30:48.940611+00,2025-07-07 16:30:48.940611+00
+927,The Mirror & the Maze (The Wrath and the Dawn #1.5),29.38,Books,1,2025-07-07 16:30:49.249873+00,2025-07-07 16:30:49.249873+00
+928,The Little Prince,45.42,Books,2,2025-07-07 16:30:49.574542+00,2025-07-07 16:30:49.574542+00
+929,The Light of the Fireflies,54.43,Books,1,2025-07-07 16:30:49.876077+00,2025-07-07 16:30:49.876077+00
+930,The Last Girl (The Dominion Trilogy #1),36.26,Books,2,2025-07-07 16:30:50.178804+00,2025-07-07 16:30:50.178804+00
+931,The Iliad,16.16,Books,1,2025-07-07 16:30:50.492461+00,2025-07-07 16:30:50.492461+00
+932,The Hook Up (Game On #1),36.29,Books,5,2025-07-07 16:30:50.785418+00,2025-07-07 16:30:50.785418+00
+933,The Haters,27.89,Books,5,2025-07-07 16:30:51.083553+00,2025-07-07 16:30:51.083553+00
+934,The Girl You Lost,12.29,Books,5,2025-07-07 16:30:51.394417+00,2025-07-07 16:30:51.394417+00
+935,The Girl In The Ice (DCI Erika Foster #1),15.85,Books,3,2025-07-07 16:30:51.709254+00,2025-07-07 16:30:51.709254+00
+936,The End of the Jesus Era (An Investigation #1),14.40,Books,1,2025-07-07 16:30:52.02522+00,2025-07-07 16:30:52.02522+00
+937,The Edge of Reason (Bridget Jones #2),19.18,Books,4,2025-07-07 16:30:52.353355+00,2025-07-07 16:30:52.353355+00
+938,The Complete Maus (Maus #1-2),10.64,Books,3,2025-07-07 16:30:52.674773+00,2025-07-07 16:30:52.674773+00
+939,The Communist Manifesto,14.76,Books,3,2025-07-07 16:30:52.984916+00,2025-07-07 16:30:52.984916+00
+940,The Bhagavad Gita,57.49,Books,3,2025-07-07 16:30:53.305265+00,2025-07-07 16:30:53.305265+00
+941,The Bette Davis Club,30.66,Books,3,2025-07-07 16:30:53.603438+00,2025-07-07 16:30:53.603438+00
+942,The Art of Not Breathing,40.83,Books,4,2025-07-07 16:30:53.95247+00,2025-07-07 16:30:53.95247+00
+943,Taking Shots (Assassins #1),18.88,Books,2,2025-07-07 16:30:54.266337+00,2025-07-07 16:30:54.266337+00
+944,Starlark,25.83,Books,3,2025-07-07 16:30:54.580053+00,2025-07-07 16:30:54.580053+00
+945,"Skip Beat!, Vol. 01 (Skip Beat! #1)",42.12,Books,3,2025-07-07 16:30:54.874915+00,2025-07-07 16:30:54.874915+00
+946,Sister Sable (The Mad Queen #1),13.33,Books,3,2025-07-07 16:30:55.187289+00,2025-07-07 16:30:55.187289+00
+947,Shatter Me (Shatter Me #1),42.40,Books,1,2025-07-07 16:30:55.488672+00,2025-07-07 16:30:55.488672+00
+948,Shameless,58.35,Books,3,2025-07-07 16:30:55.778134+00,2025-07-07 16:30:55.778134+00
+949,Shadow Rites (Jane Yellowrock #10),21.72,Books,4,2025-07-07 16:30:56.08883+00,2025-07-07 16:30:56.08883+00
+950,Settling the Score (The Summer Games #1),44.91,Books,2,2025-07-07 16:30:56.39867+00,2025-07-07 16:30:56.39867+00
+951,Sense and Sensibility,37.46,Books,1,2025-07-07 16:30:56.712334+00,2025-07-07 16:30:56.712334+00
+952,"Saga, Volume 1 (Saga (Collected Editions) #1)",28.48,Books,1,2025-07-07 16:30:57.02976+00,2025-07-07 16:30:57.02976+00
+953,"Rhythm, Chord & Malykhin",28.34,Books,2,2025-07-07 16:30:57.347122+00,2025-07-07 16:30:57.347122+00
+954,"Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)",46.96,Books,5,2025-07-07 16:30:57.656433+00,2025-07-07 16:30:57.656433+00
+955,Paradise Lost (Paradise #1),24.96,Books,1,2025-07-07 16:30:57.976824+00,2025-07-07 16:30:57.976824+00
+956,"Paper Girls, Vol. 1 (Paper Girls #1-5)",21.71,Books,4,2025-07-07 16:30:58.284906+00,2025-07-07 16:30:58.284906+00
+957,"Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)",29.87,Books,3,2025-07-07 16:30:58.593677+00,2025-07-07 16:30:58.593677+00
+958,Origins (Alphas 0.5),28.99,Books,1,2025-07-07 16:30:58.896836+00,2025-07-07 16:30:58.896836+00
+959,One Second (Seven #7),52.94,Books,2,2025-07-07 16:30:59.192586+00,2025-07-07 16:30:59.192586+00
+960,On the Road (Duluoz Legend),32.36,Books,3,2025-07-07 16:30:59.49727+00,2025-07-07 16:30:59.49727+00
+961,Old Records Never Die: One Man's Quest for His Vinyl and His Past,55.66,Books,2,2025-07-07 16:30:59.803626+00,2025-07-07 16:30:59.803626+00
+962,Off Sides (Off #1),39.45,Books,5,2025-07-07 16:31:00.124196+00,2025-07-07 16:31:00.124196+00
+963,Of Mice and Men,47.11,Books,2,2025-07-07 16:31:00.427509+00,2025-07-07 16:31:00.427509+00
+964,Myriad (Prentor #1),58.75,Books,4,2025-07-07 16:31:00.748465+00,2025-07-07 16:31:00.748465+00
+965,My Perfect Mistake (Over the Top #1),38.92,Books,2,2025-07-07 16:31:01.060802+00,2025-07-07 16:31:01.060802+00
+966,"Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)",39.39,Books,4,2025-07-07 16:31:01.377426+00,2025-07-07 16:31:01.377426+00
+967,Meditations,25.89,Books,2,2025-07-07 16:31:01.710543+00,2025-07-07 16:31:01.710543+00
+968,Matilda,28.34,Books,1,2025-07-07 16:31:02.026604+00,2025-07-07 16:31:02.026604+00
+969,Lost Among the Living,27.70,Books,4,2025-07-07 16:31:02.346069+00,2025-07-07 16:31:02.346069+00
+970,Lord of the Flies,24.89,Books,3,2025-07-07 16:31:02.642389+00,2025-07-07 16:31:02.642389+00
+971,Listen to Me (Fusion #1),58.99,Books,3,2025-07-07 16:31:02.954244+00,2025-07-07 16:31:02.954244+00
+972,Kitchens of the Great Midwest,57.20,Books,5,2025-07-07 16:31:03.302658+00,2025-07-07 16:31:03.302658+00
+973,Jane Eyre,38.43,Books,5,2025-07-07 16:31:03.613465+00,2025-07-07 16:31:03.613465+00
+974,Imperfect Harmony,34.74,Books,4,2025-07-07 16:31:03.947502+00,2025-07-07 16:31:03.947502+00
+975,Icing (Aces Hockey #2),40.44,Books,4,2025-07-07 16:31:04.258058+00,2025-07-07 16:31:04.258058+00
+976,"Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)",45.24,Books,3,2025-07-07 16:31:04.597798+00,2025-07-07 16:31:04.597798+00
+977,Having the Barbarian's Baby (Ice Planet Barbarians #7.5),34.96,Books,4,2025-07-07 16:31:04.902809+00,2025-07-07 16:31:04.902809+00
+978,"Giant Days, Vol. 1 (Giant Days #1-4)",56.76,Books,4,2025-07-07 16:31:05.256222+00,2025-07-07 16:31:05.256222+00
+979,"Fruits Basket, Vol. 1 (Fruits Basket #1)",40.28,Books,5,2025-07-07 16:31:05.571451+00,2025-07-07 16:31:05.571451+00
+980,Frankenstein,38.00,Books,2,2025-07-07 16:31:05.93778+00,2025-07-07 16:31:05.93778+00
+981,Forever Rockers (The Rocker #12),28.80,Books,3,2025-07-07 16:31:06.230393+00,2025-07-07 16:31:06.230393+00
+982,Fighting Fate (Fighting #6),39.24,Books,3,2025-07-07 16:31:06.526798+00,2025-07-07 16:31:06.526798+00
+983,Emma,32.93,Books,2,2025-07-07 16:31:06.865483+00,2025-07-07 16:31:06.865483+00
+984,"Eat, Pray, Love",51.32,Books,3,2025-07-07 16:31:07.167093+00,2025-07-07 16:31:07.167093+00
+985,Deep Under (Walker Security #1),47.09,Books,5,2025-07-07 16:31:07.49636+00,2025-07-07 16:31:07.49636+00
+986,Choosing Our Religion: The Spiritual Lives of America's Nones,28.42,Books,4,2025-07-07 16:31:07.820913+00,2025-07-07 16:31:07.820913+00
+987,Charlie and the Chocolate Factory (Charlie Bucket #1),22.85,Books,3,2025-07-07 16:31:08.212481+00,2025-07-07 16:31:08.212481+00
+988,Charity's Cross (Charles Towne Belles #4),41.24,Books,1,2025-07-07 16:31:08.504687+00,2025-07-07 16:31:08.504687+00
+989,Bright Lines,39.07,Books,5,2025-07-07 16:31:08.788205+00,2025-07-07 16:31:08.788205+00
+990,Bridget Jones's Diary (Bridget Jones #1),29.82,Books,1,2025-07-07 16:31:09.082708+00,2025-07-07 16:31:09.082708+00
+991,Bounty (Colorado Mountain #7),37.26,Books,4,2025-07-07 16:31:09.381848+00,2025-07-07 16:31:09.381848+00
+992,Blood Defense (Samantha Brinkman #1),20.30,Books,3,2025-07-07 16:31:09.686463+00,2025-07-07 16:31:09.686463+00
+993,"Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)",34.65,Books,5,2025-07-07 16:31:10.009087+00,2025-07-07 16:31:10.009087+00
+994,Beyond Good and Evil,43.38,Books,1,2025-07-07 16:31:10.304342+00,2025-07-07 16:31:10.304342+00
+995,Alice in Wonderland (Alice's Adventures in Wonderland #1),55.53,Books,1,2025-07-07 16:31:10.634993+00,2025-07-07 16:31:10.634993+00
+996,"Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)",57.06,Books,4,2025-07-07 16:31:10.94959+00,2025-07-07 16:31:10.94959+00
+997,A Spy's Devotion (The Regency Spies of London #1),16.97,Books,5,2025-07-07 16:31:11.234819+00,2025-07-07 16:31:11.234819+00
+998,1st to Die (Women's Murder Club #1),53.98,Books,1,2025-07-07 16:31:11.532373+00,2025-07-07 16:31:11.532373+00
+999,"1,000 Places to See Before You Die",26.08,Books,5,2025-07-07 16:31:11.828161+00,2025-07-07 16:31:11.828161+00
