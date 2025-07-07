@@ -112,7 +112,7 @@ Creé una ruta API en Next.js (`/api/upload-ocr`) que actúa como proxy hacia Fa
 ### Instalación
 ```bash
 # Clonar el repositorio
-git clone [url-del-repo]
+git clone https://github.com/johernandezvaz/techx-prueba.git
 cd frontend
 
 # Instalar dependencias
